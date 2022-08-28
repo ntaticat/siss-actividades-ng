@@ -1,0 +1,32 @@
+<form action="" (ngSubmit)="onSubmitActivitySearch($event)" [formGroup]="activitySearchForm">
+
+  <div class="">
+    <label for="">Nombre de la actividad</label>
+    <input formControlName="textSearch" type="text" name="txtBusqueda">
+  </div>
+
+  <div class="">
+    <div class="">
+      <input value="todo" formControlName="filterRadioSearch" type="radio" checked name="filterRadioSearch" id="">
+      <label for="">Todos</label>
+    </div>
+    <div class="">
+      <input value="actividad" formControlName="filterRadioSearch" type="radio" checked name="filterRadioSearch" id="">
+      <label for="">Actividad y programa</label>
+    </div>
+    <div class="">
+      <input value="direccion" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="">
+      <label for="">Direccion</label>
+    </div>
+    <div class="">
+      <input value="prestatario" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="">
+      <label for="">Prestatario</label>
+    </div>
+    <div class="">
+      <input value="objetivo" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="">
+      <label for="">Objetivo y justificacion</label>
+    </div>
+  </div>
+
+  <button type="submit">Enviar</button>
+</form>
