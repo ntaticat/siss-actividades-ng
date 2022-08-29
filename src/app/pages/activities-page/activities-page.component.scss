@@ -1,0 +1,83 @@
+
+$breakpoint-tablet: 768px;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(247, 237, 109);
+    background-image: url("https://www.bene.be/images/uploads/2011-blog/20111007/textures/texture-09.jpg");
+    filter: opacity(50%);
+  }
+}
+
+.container-child {
+  position: relative;
+}
+
+.container-activity {
+  padding: 1em;
+}
+
+.activities-nav {
+  // position: sticky;
+  // top: 0;
+
+  width: 100%;
+  height: auto;
+  background: rgb(142, 200, 233);
+  display: flex;
+  justify-content: flex-start;
+}
+
+.activities-nav-list {
+  display: flex;
+  border-bottom: 2px solid black;
+  margin: 0 1em;
+}
+
+.activities-nav-list a {
+  text-decoration: none;
+  color: black;
+
+  &:first-child > li {
+    border-top-left-radius: 0.5em;
+    border-left: 2px solid black;
+  }
+
+  &:last-child > li {
+    border-top-right-radius: 0.5em;
+  }
+}
+
+.activities-nav-list > a > li {
+  background: white;
+  color: black;
+
+  padding: 0.25em;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+
+  &:hover {
+    transition: 500ms;
+    background: #000;
+    color: white;
+  }
+}

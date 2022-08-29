@@ -8,6 +8,9 @@ import { ActivityItemComponent } from './components/activity-item/activity-item.
 import { AppRoutingModule } from './app-routing.module';
 import { ReactiveFormsModule } from '@angular/forms';
 import { ActivitiesFilterPipe } from './pipes/activities-filter.pipe';
+import { ActivitiesPageComponent } from './pages/activities-page/activities-page.component';
+import { RemovedActivitiesPageComponent } from './pages/removed-activities-page/removed-activities-page.component';
+import { LikedActivitiesPageComponent } from './pages/liked-activities-page/liked-activities-page.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +18,10 @@ import { ActivitiesFilterPipe } from './pipes/activities-filter.pipe';
     ActivitySearchFormComponent,
     ActivityListComponent,
     ActivityItemComponent,
-    ActivitiesFilterPipe
+    ActivitiesFilterPipe,
+    ActivitiesPageComponent,
+    RemovedActivitiesPageComponent,
+    LikedActivitiesPageComponent
   ],
   imports: [
     BrowserModule,

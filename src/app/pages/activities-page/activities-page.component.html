@@ -1,0 +1,20 @@
+<div class="container">
+  <div class="container-child">
+    <nav class="activities-nav">
+      <ul class="activities-nav-list">
+        <a routerLink="/"><li>Todas las actividades</li></a>
+        <a routerLink="/liked"><li>Actividades favoritas</li></a>
+        <a routerLink="/removed"><li>Actividades removidas</li></a>
+      </ul>
+    </nav>
+
+    <app-activity-search-form (emitirFiltrosBusqueda)="changeFiltroBusqueda($event)"></app-activity-search-form>
+
+    <div class="">
+      <h1>Todas las actividades</h1>
+      <div class="container-activity">
+        <app-activity-list [filtroBusqueda]="filtroBusqueda"></app-activity-list>
+      </div>
+    </div>
+  </div>
+</div>

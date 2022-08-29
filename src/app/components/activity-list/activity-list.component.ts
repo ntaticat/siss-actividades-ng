@@ -1,4 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { map, tap } from 'rxjs';
+import { IActivityApplication, IFiltroBusqueda } from 'src/app/data/activities.interfaces';
+import { ActivitiesService } from 'src/app/data/activities.service';
 
 @Component({
   selector: 'app-activity-list',
@@ -7,9 +10,36 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ActivityListComponent implements OnInit {
 
-  constructor() { }
+  activitiesArr: IActivityApplication[] = [];
+  activityCounter: number = 1;
 
-  ngOnInit(): void {
+  @Input() filtroBusqueda: IFiltroBusqueda = {
+    filtroBusqueda: "",
+    textoBusqueda: ""
   }
 
+  constructor(private activitiesService: ActivitiesService) { }
+
+  ngOnInit(): void {
+    this.activitiesService.getActivities()
+      .pipe(
+        map((activity) => {
+          const newActivity: IActivityApplication = {
+            ...activity,
+            actividad_id: this.activityCounter - 1,
+            actividad_removed: false,
+            mostrar_prestatario_largo: true
+          }
+          return newActivity;
+        }),
+        tap(() => this.activityCounter += 1)
+      )
+      .subscribe((activity) => {
+        this.activitiesArr.push(activity);
+      })
+  }
+
+  removeActivity(index: number) {
+    this.activitiesArr[index].actividad_removed = true;
+  }
 }
