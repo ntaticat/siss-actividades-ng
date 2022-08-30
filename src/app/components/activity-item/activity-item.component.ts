@@ -25,5 +25,4 @@ export class ActivityItemComponent implements OnInit {
   onClickToggleActivityPrestatarioNombre() {
     this.activity.mostrar_prestatario_largo = !this.activity.mostrar_prestatario_largo;
   }
-
 }

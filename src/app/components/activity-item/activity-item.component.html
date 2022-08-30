@@ -1,48 +1,26 @@
 <div [ngClass]="{ 'activity-item-last': lastItem, 'activity-item-first': firstItem }" class="activity-container" *ngIf="activity.actividad_removed == false">
-  <div class="activity-title">
-    <button (click)="onClickRemove()" class="">Remover</button>
-    <div class="activity-title-container">
-      <div class="activity-actividad-container">
-        <p class="activity-actividad">Actividad: {{ activity.nombre_actividad }}</p>
-        <p class="activity-programa">Programa: {{ activity.nombre_programa }}</p>
-      </div>
-      <div class="activity-datos-container">
-        <p class="activity-vacantes">{{ activity.numero_vacantes }} vacantes</p>
-        <p class="activity-fechas">{{ activity.fechaInicioTermino }}</p>
-      </div>
-    </div>
-    <button class="activity-prestatario" (click)="onClickToggleActivityPrestatarioNombre()">
-      <p *ngIf="!activity.mostrar_prestatario_largo" class="activity-prestatario-short">{{ activity.nombre_prestatario }}</p>
-      <p *ngIf="activity.mostrar_prestatario_largo" class="activity-prestatario-long">{{ activity.nombre_largo_prestatario }}</p>
-    </button>
-  </div>
-
-  <div class="activity-descripcion">
-    <p class="activity-description-title">Objetivo del programa:</p>
-    <p class="activity-objetivo">{{ activity.objetivo_programa | lowercase }}</p>
-    <p class="activity-description-title">Justificación del programa:</p>
-    <p class="activity-justificacion">{{ activity.justificacion_programa | lowercase }}</p>
-  </div>
-  <div class="activity-domicilio-container">
-    <p class="activity-">{{ activity.domicilio_programa }}</p>
-  </div>
-  <p class="activity-">{{ activity.nombre_representante }}</p>
-  <p class="activity-">{{ activity.medios_contacto_representante }}</p>
-  <p class="activity-">{{ activity.apoyos_programa }}</p>
-
   <div class="notebook-container">
     <div class="notebook-lines"></div>
     <ul class="notebook-list">
-      <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, doloribus.</li>
-      <li>Voluptates enim unde mollitia, veniam consequuntur beatae iure aperiam quas?</li>
-      <li>Ducimus laborum, impedit dicta architecto voluptas voluptatum at incidunt consequatur?</li>
-      <li>Esse culpa, ea voluptatibus ratione inventore pariatur nesciunt aut incidunt?</li>
-      <li>Placeat voluptatum reprehenderit distinctio doloremque illum nobis quia harum! Modi.</li>
-      <li>Dolorem a consequuntur consectetur ipsa delectus, debitis architecto adipisci inventore!</li>
-      <li>Adipisci possimus aliquid itaque voluptate incidunt provident quo non reiciendis?</li>
-      <li>Voluptatum tenetur animi nostrum omnis totam, error ullam rem nam?</li>
-      <li>Exercitationem dicta ex fugiat mollitia sit nihil maiores temporibus nam.</li>
-      <li>Enim, ad consequuntur voluptate ex facilis nemo perspiciatis ducimus suscipit?</li>
+      <li class="notebook-subtitle">Actividad:</li>
+      <li><span class="highlight blue">{{ activity.nombre_actividad }}</span></li>
+      <li class="notebook-subtitle">Programa:</li>
+      <li>{{ activity.nombre_programa }}</li>
+      <li>{{ activity.numero_vacantes }} vacantes, Del {{ activity.fechaInicioTermino }}</li>
+      <li class="notebook-subtitle">Nombre del prestatario:</li>
+      <li>{{ activity.nombre_prestatario }}</li>
+      <li>{{ activity.nombre_largo_prestatario }}</li>
+      <li class="notebook-subtitle">Objetivo del programa:</li>
+      <li>{{ activity.objetivo_programa | lowercase }}</li>
+      <li>Justificación del programa:</li>
+      <li>{{ activity.justificacion_programa | lowercase }}</li>
+      <li class="notebook-subtitle">Domicilio:</li>
+      <li><span class="highlight brown">{{ activity.domicilio_programa }}</span></li>
+      <li class="notebook-subtitle">Representante del programa:</li>
+      <li *ngIf="false">{{ activity.nombre_representante }}</li>
+      <li *ngIf="false">{{ activity.medios_contacto_representante }}</li>
+      <li class="notebook-subtitle">Apoyos:</li>
+      <li>{{ activity.apoyos_programa }}</li>
     </ul>
   </div>
 </div>
