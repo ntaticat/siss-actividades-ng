@@ -12,6 +12,7 @@ export class ActivitySearchFormComponent implements OnInit {
   @Output() emitirFiltrosBusqueda: EventEmitter<IFiltroBusqueda> = new EventEmitter();
 
   activitySearchForm: FormGroup;
+  showForm: boolean = false;
 
   constructor(private fb: FormBuilder) {
     this.activitySearchForm = this.fb.group({
@@ -34,6 +35,10 @@ export class ActivitySearchFormComponent implements OnInit {
     };
 
     this.emitirFiltrosBusqueda.emit(values);
+  }
+
+  onClickShowForm() {
+    this.showForm = !this.showForm;
   }
 
 }
