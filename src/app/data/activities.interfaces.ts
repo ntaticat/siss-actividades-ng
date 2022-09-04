@@ -16,7 +16,7 @@ export interface IActivity {
 export interface IActivityApplication extends  IActivity {
   actividad_id: number;
   actividad_removed: boolean;
-  mostrar_prestatario_largo: boolean;
+  actividad_liked: boolean;
 }
 
 export interface IFiltroBusqueda {

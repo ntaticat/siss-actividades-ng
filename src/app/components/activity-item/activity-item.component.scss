@@ -24,6 +24,39 @@ $breakpoint-tablet: 768px;
   margin-top: 0;
 }
 
+.activity-actions {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.5em;
+}
+
+.btn-action-remove,
+.btn-action-like {
+  width: 100%;
+  padding: 0.5em;
+  border: 0;
+  border-bottom: 2px solid #2222;
+  color: white;
+}
+
+.btn-action-remove {
+  background: rgba(255, 0, 0, 0.788);
+  &:hover {
+    background: rgba(255, 0, 0, 0.888);
+    transition: 200ms;
+  }
+}
+
+.btn-action-like {
+  background: rgba(0, 0, 255, 0.788);
+  // opacity: 75%;
+
+  &:hover {
+    background: rgba(0, 0, 255, 0.888);
+    transition: 200ms;
+  }
+}
+
 .activity-title-container {
   display: flex;
   flex-wrap: nowrap;

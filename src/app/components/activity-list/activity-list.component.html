@@ -1,5 +1,5 @@
 <div class="activities-container">
   <ng-container *ngFor="let last = last; let first = first; let activityItem of activitiesArr | activitiesFilter:filtroBusqueda.textoBusqueda:filtroBusqueda.filtroBusqueda">
-    <app-activity-item [lastItem]="last" [firstItem]="first" (removeActivity)="removeActivity($event)" [activity]="activityItem"></app-activity-item>
+    <app-activity-item [lastItem]="last" [firstItem]="first" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
   </ng-container>
 </div>

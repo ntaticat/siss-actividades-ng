@@ -12,6 +12,7 @@ export class ActivityItemComponent implements OnInit {
   @Input() lastItem!: boolean;
   @Input() firstItem!: boolean;
   @Output() removeActivity: EventEmitter<number> = new EventEmitter();
+  @Output() likeActivity: EventEmitter<number> = new EventEmitter();
 
   constructor() { }
 
@@ -22,7 +23,7 @@ export class ActivityItemComponent implements OnInit {
     this.removeActivity.emit(this.activity.actividad_id);
   }
 
-  onClickToggleActivityPrestatarioNombre() {
-    this.activity.mostrar_prestatario_largo = !this.activity.mostrar_prestatario_largo;
+  onClickLike() {
+    this.likeActivity.emit(this.activity.actividad_id);
   }
 }

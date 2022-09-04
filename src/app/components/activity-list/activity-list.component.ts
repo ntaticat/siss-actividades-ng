@@ -28,7 +28,7 @@ export class ActivityListComponent implements OnInit {
             ...activity,
             actividad_id: this.activityCounter - 1,
             actividad_removed: false,
-            mostrar_prestatario_largo: true
+            actividad_liked: false
           }
           return newActivity;
         }),
@@ -41,5 +41,9 @@ export class ActivityListComponent implements OnInit {
 
   removeActivity(index: number) {
     this.activitiesArr[index].actividad_removed = true;
+  }
+
+  likeActivity(index: number) {
+    this.activitiesArr[index].actividad_liked = true;
   }
 }
