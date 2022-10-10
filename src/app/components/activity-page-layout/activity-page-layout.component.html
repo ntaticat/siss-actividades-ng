@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="container-child">
+    <nav class="activities-nav">
+      <ul class="activities-nav-list">
+        <a routerLinkActive="activities-nav-link" routerLink="/"><li>Todas las actividades</li></a>
+        <a routerLinkActive="activities-nav-link" routerLink="/liked"><li>Actividades favoritas</li></a>
+        <a routerLinkActive="activities-nav-link" routerLink="/removed"><li>Actividades removidas</li></a>
+      </ul>
+    </nav>
+
+    <app-activity-search-form *ngIf="true" (emitirFiltrosBusqueda)="changeFiltroBusqueda($event)"></app-activity-search-form>
+
+    <div class="">
+
+      <div class="">
+        <button (click)="cargarData()">Cargar datos del servidor</button>
+      </div>
+
+      <h1>{{ activityPageTitle }}</h1>
+      <div class="container-activity">
+        <app-activity-list [activityType]="activityType" [filtroBusqueda]="filtroBusqueda"></app-activity-list>
+      </div>
+    </div>
+  </div>
+</div>

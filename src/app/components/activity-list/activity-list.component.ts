@@ -11,39 +11,37 @@ import { ActivitiesService } from 'src/app/data/activities.service';
 export class ActivityListComponent implements OnInit {
 
   activitiesArr: IActivityApplication[] = [];
-  activityCounter: number = 1;
 
   @Input() filtroBusqueda: IFiltroBusqueda = {
     filtroBusqueda: "",
     textoBusqueda: ""
   }
 
+  @Input() activityType?: string;
+
   constructor(private activitiesService: ActivitiesService) { }
 
   ngOnInit(): void {
-    this.activitiesService.getActivities()
-      .pipe(
-        map((activity) => {
-          const newActivity: IActivityApplication = {
-            ...activity,
-            actividad_id: this.activityCounter - 1,
-            actividad_removed: false,
-            actividad_liked: false
-          }
-          return newActivity;
-        }),
-        tap(() => this.activityCounter += 1)
-      )
-      .subscribe((activity) => {
-        this.activitiesArr.push(activity);
-      })
+    this.activitiesArr = this.activitiesService.getActivities();
   }
 
   removeActivity(index: number) {
-    this.activitiesArr[index].actividad_removed = true;
+    const activity = this.activitiesArr.find(activity => activity.id_actividad === index);
+
+    if(activity !== undefined) {
+      activity.actividad_removed = !activity.actividad_removed;
+    }
+
+    this.activitiesService.saveActivities(this.activitiesArr);
   }
 
   likeActivity(index: number) {
-    this.activitiesArr[index].actividad_liked = true;
+    const activity = this.activitiesArr.find(activity => activity.id_actividad === index);
+
+    if(activity !== undefined) {
+      activity.actividad_liked = !activity.actividad_liked;
+    }
+
+    this.activitiesService.saveActivities(this.activitiesArr);
   }
 }

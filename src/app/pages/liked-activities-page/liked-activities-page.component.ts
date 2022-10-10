@@ -11,5 +11,4 @@ export class LikedActivitiesPageComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }

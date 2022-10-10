@@ -11,6 +11,9 @@ import { ActivitiesFilterPipe } from './pipes/activities-filter.pipe';
 import { ActivitiesPageComponent } from './pages/activities-page/activities-page.component';
 import { RemovedActivitiesPageComponent } from './pages/removed-activities-page/removed-activities-page.component';
 import { LikedActivitiesPageComponent } from './pages/liked-activities-page/liked-activities-page.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { ActivityPageLayoutComponent } from './components/activity-page-layout/activity-page-layout.component';
+import { ActivitiesTypePipe } from './pipes/activities-type.pipe';
 
 @NgModule({
   declarations: [
@@ -21,12 +24,15 @@ import { LikedActivitiesPageComponent } from './pages/liked-activities-page/like
     ActivitiesFilterPipe,
     ActivitiesPageComponent,
     RemovedActivitiesPageComponent,
-    LikedActivitiesPageComponent
+    LikedActivitiesPageComponent,
+    ActivityPageLayoutComponent,
+    ActivitiesTypePipe
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

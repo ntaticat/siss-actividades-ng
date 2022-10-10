@@ -3,34 +3,33 @@
     <div class="form-whitespace"></div>
     <form *ngIf="showForm" class="search-form" (ngSubmit)="onSubmitActivitySearch($event)" [formGroup]="activitySearchForm">
 
-      <div class="">
+      <div class="txtFilterBusquedaContainer">
         <label for="">Nombre de la actividad</label>
-        <input formControlName="textSearch" type="text" name="txtBusqueda">
+        <input placeholder="Escriba el nombre de la actividad..." formControlName="textSearch" type="text" name="txtBusqueda">
       </div>
-
+      <button type="submit">Buscar</button>
       <div class="">
         <div class="">
-          <input value="todo" formControlName="filterRadioSearch" type="radio" checked name="filterRadioSearch" id="">
-          <label for="">Todos</label>
+          <input value="todo" formControlName="filterRadioSearch" type="radio" checked name="filterRadioSearch" id="activitySearchRadioTodos">
+          <label for="activitySearchRadioTodos">Todos</label>
         </div>
         <div class="">
-          <input value="actividad" formControlName="filterRadioSearch" type="radio" checked name="filterRadioSearch" id="">
-          <label for="">Actividad y programa</label>
+          <input value="actividad" formControlName="filterRadioSearch" type="radio" checked name="filterRadioSearch" id="activitySearchRadioActividad">
+          <label for="activitySearchRadioActividad">Actividad y programa</label>
         </div>
         <div class="">
-          <input value="direccion" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="">
-          <label for="">Direccion</label>
+          <input value="direccion" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="activitySearchRadioDireccion">
+          <label for="activitySearchRadioDireccion">Direccion</label>
         </div>
         <div class="">
-          <input value="prestatario" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="">
-          <label for="">Prestatario</label>
+          <input value="prestatario" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="activitySearchRadioPrestatario">
+          <label for="activitySearchRadioPrestatario">Prestatario</label>
         </div>
         <div class="">
-          <input value="objetivo" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="">
-          <label for="">Objetivo y justificacion</label>
+          <input value="objetivo" formControlName="filterRadioSearch" type="radio" name="filterRadioSearch" id="activitySearchRadioObjetivo">
+          <label for="activitySearchRadioObjetivo">Objetivo y justificacion</label>
         </div>
       </div>
-      <button type="submit">Enviar</button>
     </form>
     <button (click)="onClickShowForm()" class="btn-search-form">Buscar actividades</button>
   </div>

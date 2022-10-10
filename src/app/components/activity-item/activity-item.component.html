@@ -1,7 +1,7 @@
-<div [ngClass]="{ 'activity-item-last': lastItem, 'activity-item-first': firstItem }" class="activity-container" *ngIf="activity.actividad_removed == false && activity.actividad_liked == false">
+<div [ngClass]="{ 'activity-item-last': lastItem, 'activity-item-first': firstItem }" class="activity-container">
   <div class="activity-actions">
-    <button (click)="onClickRemove()" class="btn-action-remove">Remover</button>
-    <button (click)="onClickLike()" class="btn-action-like">Favoritos</button>
+    <button (click)="onClickRemove()" class="btn-action-remove">remove</button>
+    <button (click)="onClickLike()" class="btn-action-like">like</button>
   </div>
   <div class="notebook-container">
     <div class="notebook-lines"></div>

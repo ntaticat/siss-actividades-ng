@@ -1,4 +1,5 @@
 export interface IActivity {
+  id_actividad: number;
   nombre_actividad: string;
   numero_vacantes: string;
   nombre_prestatario: string;
@@ -14,7 +15,6 @@ export interface IActivity {
 }
 
 export interface IActivityApplication extends  IActivity {
-  actividad_id: number;
   actividad_removed: boolean;
   actividad_liked: boolean;
 }

@@ -10,19 +10,9 @@ export class ActivitiesPageComponent implements OnInit {
 
   title = 'siss-actividades';
 
-  filtroBusqueda: IFiltroBusqueda = {
-    filtroBusqueda: "",
-    textoBusqueda: ""
-  }
-
   constructor() { }
 
   ngOnInit(): void {
-  }
-
-  changeFiltroBusqueda(data: IFiltroBusqueda) {
-    console.log("DATA DEL CAMBIO DE FILTRO", data);
-    this.filtroBusqueda = data;
   }
 
 }
