@@ -16,15 +16,17 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 
+  background-color: #aaa;
+
   &::before {
     content: "";
     position: absolute;
     top: 0; left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgb(247, 237, 109);
-    background-image: url("https://www.bene.be/images/uploads/2011-blog/20111007/textures/texture-09.jpg");
-    filter: opacity(50%);
+    // background-color: rgb(247, 237, 109);
+    // background-image: url("https://www.bene.be/images/uploads/2011-blog/20111007/textures/texture-09.jpg");
+    // filter: opacity(50%);
   }
 }
 

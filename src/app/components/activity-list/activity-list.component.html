@@ -1,5 +1,5 @@
 <div class="activities-container">
-  <ng-container *ngFor="let activityItem of activitiesArr; let last = last; let first = first">
+  <ng-container *ngFor="let activityItem of (activitiesArr | activitiesFilter:filtroBusqueda.textoBusqueda:filtroBusqueda.filtroBusqueda); let last = last; let first = first">
     <ng-container [ngSwitch]="activityType">
       <ng-container *ngSwitchCase="'removed'">
         <app-activity-item *ngIf="activityItem.actividad_removed" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
@@ -8,7 +8,7 @@
         <app-activity-item *ngIf="activityItem.actividad_liked" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
       </ng-container>
       <ng-container *ngSwitchDefault>
-        <app-activity-item [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
+        <app-activity-item *ngIf="!activityItem.actividad_liked && !activityItem.actividad_removed" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
       </ng-container>
     </ng-container>
   </ng-container>

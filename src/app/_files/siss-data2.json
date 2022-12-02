@@ -347,7 +347,7 @@
   {
     "id_actividad": 24,
     "nombre_actividad": "Actividad: ASESORÍA Y SOPORTE TÉCNICO EN HARDWARE Y SOFTWARE Y TELECOMUNICACIONES",
-    "numero_vacantes": "Vacantes: -1",
+    "numero_vacantes": "Vacantes: 0",
     "nombre_prestatario": "Prestatario : A. G.A.M. (220700000)",
     "nombre_largo_prestatario": "Nombre largo: ALCALDIA DE GUSTAVO A. MADERO",
     "nombre_programa": "Nombre del programa: TECNOLOGÍAS DE INFORMACIÓN (20007b0235)",
@@ -407,7 +407,7 @@
   {
     "id_actividad": 28,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO A LAS DIFERENTES AREAS DE LA DELEGACION",
-    "numero_vacantes": "Vacantes: 254",
+    "numero_vacantes": "Vacantes: 263",
     "nombre_prestatario": "Prestatario : A. M. A. (221200000)",
     "nombre_largo_prestatario": "Nombre largo: ALCALDIA DE MILPA ALTA",
     "nombre_programa": "Nombre del programa: APOYO ADMINISTRATIVO A LA DELEGACION MILPA ALTA (22012b2997)",
@@ -752,7 +752,7 @@
   {
     "id_actividad": 51,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: -1866",
+    "numero_vacantes": "Vacantes: -1448",
     "nombre_prestatario": "Prestatario : CECYT NO. 10 (100101100)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 10 \"CARLOS VALLEJO MARQUEZ\"",
     "nombre_programa": "Nombre del programa: CECYT10_ APOYO A LAS AREAS ADMINISTRATIVAS (02080a1995)",
@@ -782,7 +782,7 @@
   {
     "id_actividad": 53,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: 954",
+    "numero_vacantes": "Vacantes: 966",
     "nombre_prestatario": "Prestatario : CECYT NO. 10 (100101100)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 10 \"CARLOS VALLEJO MARQUEZ\"",
     "nombre_programa": "Nombre del programa: CECYT10 APOYO A LAS AREAS ADMINISTRATIVAS Y DE SERVICIOS (EXTERNOS) (02080a2962)",
@@ -797,7 +797,7 @@
   {
     "id_actividad": 54,
     "nombre_actividad": "Actividad: ACTIVIDAD ADMINISTRATIVA",
-    "numero_vacantes": "Vacantes: 92",
+    "numero_vacantes": "Vacantes: 96",
     "nombre_prestatario": "Prestatario : CECYT NO. 10 (100101100)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 10 \"CARLOS VALLEJO MARQUEZ\"",
     "nombre_programa": "Nombre del programa: CECYT10 APOYO A LAS AREAS ADMINISTRATIVAS Y DE SERVICIOS (EXTERNOS) (02080a2962)",
@@ -812,7 +812,7 @@
   {
     "id_actividad": 55,
     "nombre_actividad": "Actividad: CREACIÓN DE UNA EMPRESA JUVENIL",
-    "numero_vacantes": "Vacantes: -45",
+    "numero_vacantes": "Vacantes: -44",
     "nombre_prestatario": "Prestatario : CECYT NO. 10 (100101100)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 10 \"CARLOS VALLEJO MARQUEZ\"",
     "nombre_programa": "Nombre del programa: CECYT10 POLIEMPRENDE (02080a2054)",
@@ -872,7 +872,7 @@
   {
     "id_actividad": 59,
     "nombre_actividad": "Actividad: APOYO DOCENTE Y ADMINISTRATIVO A DISTANCIA PARA ALUMNOS DE OTRAS UNIDADES ACADÉMICAS",
-    "numero_vacantes": "Vacantes: 971",
+    "numero_vacantes": "Vacantes: 972",
     "nombre_prestatario": "Prestatario : CECYT NO. 11 (100101200)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 11 \"WILFRIDO MASSIEU PEREZ\"",
     "nombre_programa": "Nombre del programa: CECYT 11 SERVICIO SOCIAL EXTERNO (A DISTANCIA) (05090a8192)",
@@ -917,7 +917,7 @@
   {
     "id_actividad": 62,
     "nombre_actividad": "Actividad: APOYO A ESTUDIANTES EN CURSOS DE CAPACITACIÓN AULA SIGLO XXI RED DE COMPUTO EN EL AULA DE ACCESO PAR",
-    "numero_vacantes": "Vacantes: 68",
+    "numero_vacantes": "Vacantes: 70",
     "nombre_prestatario": "Prestatario : CECYT NO. 12 (100101300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 12 \"JOSE MARIA MORELOS Y PAVON\"",
     "nombre_programa": "Nombre del programa: A APOYO A LA SUBDIRECCION ADMINISTRATIVA (02100a0147)",
@@ -932,7 +932,7 @@
   {
     "id_actividad": 63,
     "nombre_actividad": "Actividad: APOYO A LAS ACADEMIAS PARA LA ACTUALIZACIÓN DE PROGRAMAS Y PLANES DE ESTUDIO",
-    "numero_vacantes": "Vacantes: -68",
+    "numero_vacantes": "Vacantes: -55",
     "nombre_prestatario": "Prestatario : CECYT NO. 12 (100101300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 12 \"JOSE MARIA MORELOS Y PAVON\"",
     "nombre_programa": "Nombre del programa: APOYO A LA SUBDIRECCION ACADEMICA (02100a0295)",
@@ -947,7 +947,7 @@
   {
     "id_actividad": 64,
     "nombre_actividad": "Actividad: APOYO A ESTUDIANTES EN CURSOS DE CAPACITACIÓN EN EL AULA SIGLO XXI, RED. DE COMPUTO EN EL AULA",
-    "numero_vacantes": "Vacantes: -153",
+    "numero_vacantes": "Vacantes: -142",
     "nombre_prestatario": "Prestatario : CECYT NO. 12 (100101300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 12 \"JOSE MARIA MORELOS Y PAVON\"",
     "nombre_programa": "Nombre del programa: APOYO A LA SUBDIRECCION ACADEMICA (02100a0295)",
@@ -962,7 +962,7 @@
   {
     "id_actividad": 65,
     "nombre_actividad": "Actividad: APOYO A ESTUDIANTES EN CURSOS DE CAPACITACIÓN AULA SIGLO XXI RED. DE COM.",
-    "numero_vacantes": "Vacantes: 70",
+    "numero_vacantes": "Vacantes: 71",
     "nombre_prestatario": "Prestatario : CECYT NO. 12 (100101300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 12 \"JOSE MARIA MORELOS Y PAVON\"",
     "nombre_programa": "Nombre del programa: APOYO A LA SUBDIRECCION ADMINISTRATIVA (02100a0663)",
@@ -977,7 +977,7 @@
   {
     "id_actividad": 66,
     "nombre_actividad": "Actividad: APOYO EN ARCHIVOS DE CONTROL ESCOLAR",
-    "numero_vacantes": "Vacantes: -25",
+    "numero_vacantes": "Vacantes: -24",
     "nombre_prestatario": "Prestatario : CECYT NO. 12 (100101300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 12 \"JOSE MARIA MORELOS Y PAVON\"",
     "nombre_programa": "Nombre del programa: APOYO AL DEPARTAMENTO DE SERVICIOS ESTUDIANTILES (02100a0294)",
@@ -992,7 +992,7 @@
   {
     "id_actividad": 67,
     "nombre_actividad": "Actividad: APOYO DE SERVICIOS ESTUDIANTILES, MEDICO - DENTAL Y PSICOLÓGICO, SERVICIO SOCIAL, BECAS, TITULACIÓN",
-    "numero_vacantes": "Vacantes: -172",
+    "numero_vacantes": "Vacantes: -147",
     "nombre_prestatario": "Prestatario : CECYT NO. 12 (100101300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 12 \"JOSE MARIA MORELOS Y PAVON\"",
     "nombre_programa": "Nombre del programa: APOYO AL DEPARTAMENTO DE SERVICIOS ESTUDIANTILES (02100a0294)",
@@ -1097,7 +1097,7 @@
   {
     "id_actividad": 74,
     "nombre_actividad": "Actividad: APOYO EN ACTIVIDADES DE CONSULTA DE USO DE PLATAFORMAS, MEDIOS DIGITALES Y REPOSITORIOS, A DISTANCIA",
-    "numero_vacantes": "Vacantes: -188",
+    "numero_vacantes": "Vacantes: -189",
     "nombre_prestatario": "Prestatario : CECYT NO. 13 (100101400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 13 \"RICARDO FLORES MAGON\"",
     "nombre_programa": "Nombre del programa: APOYO A ACTIVIDADES ACADÉMICO - ADMINISTRATIVAS EN EL CECYT 13 EN MODALIDAD A DISTANCIA (05110a8229)",
@@ -1112,7 +1112,7 @@
   {
     "id_actividad": 75,
     "nombre_actividad": "Actividad: APOYO EN LA MIGRACIÓN VIRTUAL DE LOS SERVICIOS DE LA BIBLIOTECA A DISTANCIA",
-    "numero_vacantes": "Vacantes: 18",
+    "numero_vacantes": "Vacantes: 19",
     "nombre_prestatario": "Prestatario : CECYT NO. 13 (100101400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 13 \"RICARDO FLORES MAGON\"",
     "nombre_programa": "Nombre del programa: APOYO A ACTIVIDADES ACADÉMICO - ADMINISTRATIVAS EN EL CECYT 13 EN MODALIDAD A DISTANCIA (05110a8229)",
@@ -1142,7 +1142,7 @@
   {
     "id_actividad": 77,
     "nombre_actividad": "Actividad: PROCESAMIENTOS DE DATOS Y MANTENIMIENTO PREVENTIVO",
-    "numero_vacantes": "Vacantes: 88",
+    "numero_vacantes": "Vacantes: 87",
     "nombre_prestatario": "Prestatario : CECYT NO. 13 (100101400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 13 \"RICARDO FLORES MAGON\"",
     "nombre_programa": "Nombre del programa: APOYO DE ACTIVIDADES ACADEMICO ADMINISTRATIVAS DEL CECYT 13 (02110a1969)",
@@ -1157,7 +1157,7 @@
   {
     "id_actividad": 78,
     "nombre_actividad": "Actividad: APOYO A TRAVÉS DEL LUSO DE LAS TECNOLOGÍAS PARA UNA MEJOR GESTIÓN EN EL ÁREA ACADÉMICA A DISTANCIA",
-    "numero_vacantes": "Vacantes: 51",
+    "numero_vacantes": "Vacantes: 52",
     "nombre_prestatario": "Prestatario : CECYT NO. 13 (100101400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 13 \"RICARDO FLORES MAGON\"",
     "nombre_programa": "Nombre del programa: APOYO DE EXTERNOS EN ACTIVIDADES ACADÉMICO - ADMINISTRATIVAS EN EL CECYT 13 A DISTANCIA (05110a8230)",
@@ -1172,7 +1172,7 @@
   {
     "id_actividad": 79,
     "nombre_actividad": "Actividad: CONSTITUIR Y APLICAR SISTEMAS DE INFORMACIÓN UTILIZANDO HERRAMIENTAS DE CÓMPUTO, ADMINISTRAR RECURSO",
-    "numero_vacantes": "Vacantes: 60",
+    "numero_vacantes": "Vacantes: 64",
     "nombre_prestatario": "Prestatario : CECYT NO. 13 (100101400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 13 \"RICARDO FLORES MAGON\"",
     "nombre_programa": "Nombre del programa: PRESTADORES DE SERVICIO SOCIAL EXTERNOS EN APOYO AL CECYT 13 (02110a1987)",
@@ -1262,7 +1262,7 @@
   {
     "id_actividad": 85,
     "nombre_actividad": "Actividad: APOYO EN LA GENERACIÓN DE UNA EMPRESA (A DISTANCIA)",
-    "numero_vacantes": "Vacantes: 257",
+    "numero_vacantes": "Vacantes: 247",
     "nombre_prestatario": "Prestatario : CECYT NO. 14 (100101500)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 14 \"LUIS ENRIQUE ERRO\"",
     "nombre_programa": "Nombre del programa: PROGRAMA INSTITUCIONAL DE EMPRENDEDORES POLIEMPRENDE DEL CECYT 14 (A DISTANCIA) (05120a8361)",
@@ -1307,7 +1307,7 @@
   {
     "id_actividad": 88,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO EN CECYT",
-    "numero_vacantes": "Vacantes: 286",
+    "numero_vacantes": "Vacantes: 290",
     "nombre_prestatario": "Prestatario : CECYT NO. 15 (100101600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 15 \"DIODORO ANTUNEZ ECHEGARAY\"",
     "nombre_programa": "Nombre del programa: APOYO EXTERNO A LAS ACTIVIDADES ACADÉMICO-ADMINISTRATIVAS DEL CECYT 15 (02130a1871)",
@@ -1322,7 +1322,7 @@
   {
     "id_actividad": 89,
     "nombre_actividad": "Actividad: APOYAR LAS ACTIVIDADES ACADEMICO ADMINISTRATIVAS DE DIFERENTES AREAS Y DEPARTAMENTOS DEL CECYT 15.",
-    "numero_vacantes": "Vacantes: 975",
+    "numero_vacantes": "Vacantes: 978",
     "nombre_prestatario": "Prestatario : CECYT NO. 15 (100101600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 15 \"DIODORO ANTUNEZ ECHEGARAY\"",
     "nombre_programa": "Nombre del programa: APOYO EXTERNO A LAS ACTIVIDADES ACADÉMICO-ADMINISTRATIVAS DEL CECYT 15 (02130a1871)",
@@ -1337,7 +1337,7 @@
   {
     "id_actividad": 90,
     "nombre_actividad": "Actividad: CECYT 18 ZACATECAS SERVICIO SOCIAL EXTERNO (A DISTANCIA)",
-    "numero_vacantes": "Vacantes: 191",
+    "numero_vacantes": "Vacantes: 189",
     "nombre_prestatario": "Prestatario : CECYT NO. 18 \" ZACATECAS \" (100018031)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 18 \" ZACATECAS \"",
     "nombre_programa": "Nombre del programa: CECYT 18 ZACATECAS SERVICIO SOCIAL EXTERNO (A DISTANCIA) (05052a8246)",
@@ -1352,7 +1352,7 @@
   {
     "id_actividad": 91,
     "nombre_actividad": "Actividad: APOYO A LAS ACTIVIDADES ADMINISTRATIVAS Y DE INVESTIGACION DE CECYT 19 MODALIDAD A DISTANCIA",
-    "numero_vacantes": "Vacantes: 174",
+    "numero_vacantes": "Vacantes: 175",
     "nombre_prestatario": "Prestatario : CECYT NO. 19 (100219406)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS NO. 19 \"LEONA VICARIO\"",
     "nombre_programa": "Nombre del programa: PROGRAMA EN APOYO AL CECYT 19 PARA ALUMNOS EXTERNOS A DISTANCIA (05800a8655)",
@@ -1367,7 +1367,7 @@
   {
     "id_actividad": 92,
     "nombre_actividad": "Actividad: APOYO A ACTIVIDADES DOCENTES Y ADMINISTRATIVAS DEL CECYT 2 (A DISTANCIA)",
-    "numero_vacantes": "Vacantes: 940",
+    "numero_vacantes": "Vacantes: 939",
     "nombre_prestatario": "Prestatario : CECYT NO. 2 (100100300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 2 \"MIGUEL BERNARD\"",
     "nombre_programa": "Nombre del programa: CECYT 2 SERVICIO SOCIAL EXTERNO (A DISTANCIA) (05140a8303)",
@@ -1382,7 +1382,7 @@
   {
     "id_actividad": 93,
     "nombre_actividad": "Actividad: ACTUALIZACION, MANEJO DE BASE DE DATOS Y ACTIVIDADES ADMINISTRATIVAS.",
-    "numero_vacantes": "Vacantes: -591",
+    "numero_vacantes": "Vacantes: -398",
     "nombre_prestatario": "Prestatario : CECYT NO. 2 (100100300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 2 \"MIGUEL BERNARD\"",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL EN EL CECYT \"MIGUEL BERNARD\" (02140a1961)",
@@ -1397,7 +1397,7 @@
   {
     "id_actividad": 94,
     "nombre_actividad": "Actividad: APOYO EN EL MANTENIMIENTO CORRECTIVO Y PREVENTIVO EN AULAS, LABORATORIOS, TALLERES, ETC. DEL CECYT",
-    "numero_vacantes": "Vacantes: -567",
+    "numero_vacantes": "Vacantes: -340",
     "nombre_prestatario": "Prestatario : CECYT NO. 2 (100100300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 2 \"MIGUEL BERNARD\"",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL EN EL CECYT \"MIGUEL BERNARD\" (02140a1961)",
@@ -1412,7 +1412,7 @@
   {
     "id_actividad": 95,
     "nombre_actividad": "Actividad: ANALISIS, CREACION, MANEJO Y MANTENIMIENTO DE SISTEMAS COMPUTACIONALES",
-    "numero_vacantes": "Vacantes: 223",
+    "numero_vacantes": "Vacantes: 233",
     "nombre_prestatario": "Prestatario : CECYT NO. 2 (100100300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 2 \"MIGUEL BERNARD\"",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL INTRAINSTITUCIONAL EN EL CECYT \"MIGUEL BERNARD\" (02140a1964)",
@@ -1427,7 +1427,7 @@
   {
     "id_actividad": 96,
     "nombre_actividad": "Actividad: APOYO DOCENTE EN LA GENERACION DE MATERIAL MULTIMEDIA",
-    "numero_vacantes": "Vacantes: 133",
+    "numero_vacantes": "Vacantes: 134",
     "nombre_prestatario": "Prestatario : CECYT NO. 3 (100100400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 3 \"ESTANISLAO RAMIREZ RUIZ\"",
     "nombre_programa": "Nombre del programa: PROGRAMA EXTERNO DE SERVICIO SOCIAL EN APOYO AL CECYT #3 (02150a2088)",
@@ -1442,7 +1442,7 @@
   {
     "id_actividad": 97,
     "nombre_actividad": "Actividad: APOYO EN LA CREACION Y EDICION DE ARCHIVOS DIGITALES",
-    "numero_vacantes": "Vacantes: 125",
+    "numero_vacantes": "Vacantes: 126",
     "nombre_prestatario": "Prestatario : CECYT NO. 3 (100100400)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 3 \"ESTANISLAO RAMIREZ RUIZ\"",
     "nombre_programa": "Nombre del programa: PROGRAMA EXTERNO DE SERVICIO SOCIAL EN APOYO AL CECYT #3 (02150a2088)",
@@ -1472,7 +1472,7 @@
   {
     "id_actividad": 99,
     "nombre_actividad": "Actividad: APOYAR EN LAS DIFERENTES AREAS DE LA ESCUELA",
-    "numero_vacantes": "Vacantes: 69",
+    "numero_vacantes": "Vacantes: 93",
     "nombre_prestatario": "Prestatario : CECYT NO. 4 (100100500)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 4 \"LAZARO CARDENAS DEL RIO\"",
     "nombre_programa": "Nombre del programa: PROGRAMA PARA ALUMNOS EXTERNOS EN APOYO AL CECYT NO. 4 (05160a7722)",
@@ -1502,7 +1502,7 @@
   {
     "id_actividad": 101,
     "nombre_actividad": "Actividad: APOYAR A LAS DIVERSAS ACTIVIDADES DEL CECYT 5",
-    "numero_vacantes": "Vacantes: 81",
+    "numero_vacantes": "Vacantes: 93",
     "nombre_prestatario": "Prestatario : CECYT NO. 5 (100100600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 5 \"BENITO JUAREZ GARCIA\"",
     "nombre_programa": "Nombre del programa: PROGRAMA DE APOYO AL C.E.C.Y.T. 5 DE ALUMNOS EXTERNOS (05170a7731)",
@@ -1532,7 +1532,7 @@
   {
     "id_actividad": 103,
     "nombre_actividad": "Actividad: APOYO DIVERSAS ACTIVIDADES CECYT 5 ALUMNOS EXTERNOS",
-    "numero_vacantes": "Vacantes: 63",
+    "numero_vacantes": "Vacantes: 65",
     "nombre_prestatario": "Prestatario : CECYT NO. 5 (100100600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 5 \"BENITO JUAREZ GARCIA\"",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL EN APOYO DEL CECYT 5 (02175a2777)",
@@ -1562,7 +1562,7 @@
   {
     "id_actividad": 105,
     "nombre_actividad": "Actividad: ESCUELA LIMPIA",
-    "numero_vacantes": "Vacantes: -7",
+    "numero_vacantes": "Vacantes: -8",
     "nombre_prestatario": "Prestatario : CECYT NO. 5 (100100600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 5 \"BENITO JUAREZ GARCIA\"",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL EN APOYO DEL CECYT 5 (02175a2777)",
@@ -1577,7 +1577,7 @@
   {
     "id_actividad": 106,
     "nombre_actividad": "Actividad: APOYO A LAS DIFERENTES ÁREAS DE M.O.M.",
-    "numero_vacantes": "Vacantes: 34",
+    "numero_vacantes": "Vacantes: 38",
     "nombre_prestatario": "Prestatario : CECYT NO. 6 (100100700)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 6 \"MIGUEL OTHON DE MENDIZABAL\"",
     "nombre_programa": "Nombre del programa: APOYO EXTERNO EN M.O.M. (02008a2153)",
@@ -1607,7 +1607,7 @@
   {
     "id_actividad": 108,
     "nombre_actividad": "Actividad: APOYO DOCENTE Y ADMINISTRATIVO EN LAS UNIDADES DEPARTAMENTALES, LABORATORIOS Y TALLERES DEL PLANTEL",
-    "numero_vacantes": "Vacantes: 864",
+    "numero_vacantes": "Vacantes: 890",
     "nombre_prestatario": "Prestatario : CECYT NO. 7 (100100800)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 7 \"CUAUHTEMOC\"",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL EN APOYO A ACTIVIDADES DOCENTES Y ADMINISTRATIVAS (EXTERNOS) (22190a2566)",
@@ -1667,7 +1667,7 @@
   {
     "id_actividad": 112,
     "nombre_actividad": "Actividad: APOYO A LA SUBDIRECCION",
-    "numero_vacantes": "Vacantes: -11",
+    "numero_vacantes": "Vacantes: -7",
     "nombre_prestatario": "Prestatario : CECYT NO. 9 (100101000)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS NO. 9 \"JUAN DE DIOS BATIZ PAREDES\"",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL DE ALUMNOS EXTERNOS EN APOYO AL CECYT 9 JUAN DE DIOS BATIZ (20210a2192)",
@@ -1712,7 +1712,7 @@
   {
     "id_actividad": 115,
     "nombre_actividad": "Actividad: APOYAR EN TODAS Y CADA UNA DE LAS AREAS QUE INTEGRAN ESTA UNIDAD ACADEMICA",
-    "numero_vacantes": "Vacantes: -7",
+    "numero_vacantes": "Vacantes: 6",
     "nombre_prestatario": "Prestatario : CET NO. 1 (100101800)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE ESTUDIOS TECNOLOGICOS NO. 1 \"WALTER CROSS BUCHANAN\"",
     "nombre_programa": "Nombre del programa: EN APOYO AL WALTER CROSS BUCHANAN (02220a1805)",
@@ -2072,7 +2072,7 @@
   {
     "id_actividad": 139,
     "nombre_actividad": "Actividad: APOYO EN INGENIERÍA Y TECNOLOGÍA DE MATERIALES AVANZADOS",
-    "numero_vacantes": "Vacantes: 3",
+    "numero_vacantes": "Vacantes: 2",
     "nombre_prestatario": "Prestatario : CIITEC (100203010)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE INVESTIGACION E INNOVACION TECNOLOGICA",
     "nombre_programa": "Nombre del programa: TRANSFORMACIÓN DE RECURSOS Y/O PROCESOS PARA SU DESARROLLO TEÓRICO/PRÁCTICO EN LA SOCIEDAD. (22460a8981)",
@@ -2177,7 +2177,7 @@
   {
     "id_actividad": 146,
     "nombre_actividad": "Actividad: ACTIVIDADES DE LABORATORIO",
-    "numero_vacantes": "Vacantes: -5",
+    "numero_vacantes": "Vacantes: -3",
     "nombre_prestatario": "Prestatario : CICATAUL (100203300)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE INVESTIGACION EN CIENCIA APLICADA Y TECNOLOGIA AVANZADA, UNIDAD LEGARIA",
     "nombre_programa": "Nombre del programa: APOYO AL DESARROLLO DE ACTIVIDADES CIENTÍFICAS Y TECNOLÓGICAS (22470a0824)",
@@ -2492,7 +2492,7 @@
   {
     "id_actividad": 167,
     "nombre_actividad": "Actividad: DESARROLLO DE BASES DE DATOS Y SISTEMAS COMPUTACIONALES",
-    "numero_vacantes": "Vacantes: -1",
+    "numero_vacantes": "Vacantes: 1",
     "nombre_prestatario": "Prestatario : CIECAS (100204000)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE INVESTIGACIONES ECONOMICAS, ADMINISTRATIVAS Y SOCIALES",
     "nombre_programa": "Nombre del programa: FORMACIÓN PROFESIONAL Y DESARROLLO PERSONAL (06490a2794)",
@@ -2522,7 +2522,7 @@
   {
     "id_actividad": 169,
     "nombre_actividad": "Actividad: APOYO A LAS ACTIVIDADES ACDÉMICO-ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: -17",
+    "numero_vacantes": "Vacantes: -7",
     "nombre_prestatario": "Prestatario : CENLEX-ZAC (100200402)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE LENGUAS EXTRANJERAS-ZACATENCO",
     "nombre_programa": "Nombre del programa: APOYO A LAS ACTIVIDADES ACADEMICO ADMINISTRATIVO DE LOS PROGRAMAS A CARGO DEL CENTRO (02660a1188)",
@@ -2537,7 +2537,7 @@
   {
     "id_actividad": 170,
     "nombre_actividad": "Actividad: APOYO A LAS ACTIVIDADES ACADEMICO-ADMINISTRATIVAS",
-    "numero_vacantes": "Vacantes: 2",
+    "numero_vacantes": "Vacantes: 3",
     "nombre_prestatario": "Prestatario : CENLEX-ZAC (100200402)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE LENGUAS EXTRANJERAS-ZACATENCO",
     "nombre_programa": "Nombre del programa: APOYO A LAS ACTIVIDADES ACADEMICO ADMINISTRATIVO DE LOS PROGRAMAS A CARGO DEL CENTRO (02660a1188)",
@@ -2672,7 +2672,7 @@
   {
     "id_actividad": 179,
     "nombre_actividad": "Actividad: APOYO DESARROLLO DE CONTENIDOS PARA CURSOS, TALLERES Y ASESORÍAS EMPRESARIALES A DISTANCIA",
-    "numero_vacantes": "Vacantes: 9",
+    "numero_vacantes": "Vacantes: 8",
     "nombre_prestatario": "Prestatario : C.V.D.R U. DURANGO (100209609)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE VINCULACION Y DESARROLLO REGIONAL UNIDAD DURANGO",
     "nombre_programa": "Nombre del programa: APOYO EN TRANSFERENCIAS DE TECNOLOGÍA Y ASESORÍA EMPRESARIAL EN CONTENIDOS DE PROYECTOS A DISTANCIA (05616a8386)",
@@ -2867,7 +2867,7 @@
   {
     "id_actividad": 192,
     "nombre_actividad": "Actividad: APOYO EN DISEÑO GRÁFICO PARA LA ELABORACIÓN DE MAT. DE PROMOCION Y DIFUSION (A DISTANCIA)",
-    "numero_vacantes": "Vacantes: 41",
+    "numero_vacantes": "Vacantes: 40",
     "nombre_prestatario": "Prestatario : CVDR TAMPICO (100209904)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO DE VINCULACIÓN Y DESARROLLO REGIONAL UNIDAD TAMPICO",
     "nombre_programa": "Nombre del programa: DISEÑO GRAFICO PARA LA ELABORACION DE MATERIALES DE PROMOCION Y DIFUSION A DISTANCIA (05573a8463)",
@@ -2935,14 +2935,14 @@
     "objetivo_programa": "Objetivo: QUE LOS PRESTADORES DE SERVICIO SOCIAL, PUEDAN REFORZAR LOS CONOCIMIENTOS ADQUIRIDOS DURANTE SU TRAYECTORIA ESCOLAR, REALIZANDO DIVERSAS ACTIVIDADES ACADÉMICO ADMINISTRATIVAS A DISTANCIA.",
     "justificacion_programa": "Justificación: SE REQUIERE DE ALUMNOS CON CONOCIMIENTOS EN DIVERSAS ÁREAS, CON ESTO CONTRIBUYEN PARA APOYAR EN LAS ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS A DISTANCIA .",
     "domicilio_programa": "Domicilio: Calle: AV. DE LOS MAESTROS, Núm. exterior: S/N, Núm. interior: S/N, Colonia: SANTO TOMÁS, Delegación o Municipio: ALCALDÍA MIGUEL HIDALGO",
-    "nombre_representante": "Representante: JESSICA ANDREA MEJÍA DEL RAZO",
+    "nombre_representante": "Representante: OMAR GARCÍA LIÉVANOS",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: jmejia@ipn.mx, Tel: 57296000 ext. 63402, Fax: 57296000 ext 63419",
     "apoyos_programa": "Apoyos: ASESORÍA, CAPACITACIÓN, CURSOS,"
   },
   {
     "id_actividad": 197,
     "nombre_actividad": "Actividad: APOYO ACTIVIDADES ADMINISTRATIVAS (DISTANCIA)",
-    "numero_vacantes": "Vacantes: 79",
+    "numero_vacantes": "Vacantes: 81",
     "nombre_prestatario": "Prestatario : CICS UST (100113600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO INTERDISCIPLINARIO DE CIENCIAS DE LA SALUD, UNIDAD SANTO TOMAS",
     "nombre_programa": "Nombre del programa: APOYO A LAS ACTIVIDADES ACADÉMICO-ADMINISTRATIVAS DEL CICS-UST (DISTANCIA) (05047a8241)",
@@ -2950,14 +2950,14 @@
     "objetivo_programa": "Objetivo: QUE LOS PRESTADORES DE SERVICIO SOCIAL, PUEDAN REFORZAR LOS CONOCIMIENTOS ADQUIRIDOS DURANTE SU TRAYECTORIA ESCOLAR, REALIZANDO DIVERSAS ACTIVIDADES ACADÉMICO ADMINISTRATIVAS A DISTANCIA.",
     "justificacion_programa": "Justificación: SE REQUIERE DE ALUMNOS CON CONOCIMIENTOS EN DIVERSAS ÁREAS, CON ESTO CONTRIBUYEN PARA APOYAR EN LAS ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS A DISTANCIA .",
     "domicilio_programa": "Domicilio: Calle: AV. DE LOS MAESTROS, Núm. exterior: S/N, Núm. interior: S/N, Colonia: SANTO TOMÁS, Delegación o Municipio: ALCALDÍA MIGUEL HIDALGO",
-    "nombre_representante": "Representante: JESSICA ANDREA MEJÍA DEL RAZO",
+    "nombre_representante": "Representante: OMAR GARCÍA LIÉVANOS",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: jmejia@ipn.mx, Tel: 57296000 ext. 63402, Fax: 57296000 ext 63419",
     "apoyos_programa": "Apoyos: ASESORÍA, CAPACITACIÓN, CURSOS,"
   },
   {
     "id_actividad": 198,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO, CONTABLE Y DE SERVICIO",
-    "numero_vacantes": "Vacantes: 900",
+    "numero_vacantes": "Vacantes: 941",
     "nombre_prestatario": "Prestatario : CICS UST (100113600)",
     "nombre_largo_prestatario": "Nombre largo: CENTRO INTERDISCIPLINARIO DE CIENCIAS DE LA SALUD, UNIDAD SANTO TOMAS",
     "nombre_programa": "Nombre del programa: APOYO AL CICS-UNIDAD SANTO TOMÁS (20047a2327)",
@@ -3137,7 +3137,7 @@
   {
     "id_actividad": 210,
     "nombre_actividad": "Actividad: APOYO COLABORAR EN LA ADMINISTRACIÓN Y CONTROL DE RECURSOS FINANCIEROS A DISTANCIA",
-    "numero_vacantes": "Vacantes: -80",
+    "numero_vacantes": "Vacantes: -79",
     "nombre_prestatario": "Prestatario : CONDUSEF (240803200)",
     "nombre_largo_prestatario": "Nombre largo: COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",
     "nombre_programa": "Nombre del programa: ASESORÍA A LA POBLACIÓN GENERAL SOBRE SERVICIOS FINANCIEROS A DISTANCIA (05204l8487)",
@@ -3422,7 +3422,7 @@
   {
     "id_actividad": 229,
     "nombre_actividad": "Actividad: APOYO EN ACTIVIDADES ADMINISTRATIVAS PARA LA MEJORA DE LOS PROCESOS ADMINISTRATIVOS Y DE GESTIÓN",
-    "numero_vacantes": "Vacantes: 190",
+    "numero_vacantes": "Vacantes: 191",
     "nombre_prestatario": "Prestatario : DAES (100202600)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE APOYOS A ESTUDIANTES",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL DEL DEPARTAMENTO DE OPERACIÓN DE CENTROS DE APOYO DEL IPN (05051a9094)",
@@ -3557,7 +3557,7 @@
   {
     "id_actividad": 238,
     "nombre_actividad": "Actividad: APOYAR EN LA SISTEMATIZACIÓN DE PROCESOS DE TIC",
-    "numero_vacantes": "Vacantes: 4",
+    "numero_vacantes": "Vacantes: 5",
     "nombre_prestatario": "Prestatario : DCYC (100222802)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE COMPUTO Y COMUNICACIONES",
     "nombre_programa": "Nombre del programa: INTEGRAL DE SERVICIO SOCIAL PARA EL DESARROLLO INFORMÁTICO (20552a1270)",
@@ -3662,7 +3662,7 @@
   {
     "id_actividad": 245,
     "nombre_actividad": "Actividad: -",
-    "numero_vacantes": "Vacantes: -2",
+    "numero_vacantes": "Vacantes: -1",
     "nombre_prestatario": "Prestatario : DDiCyT (100204400)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCIÓN DE DIFUSIÓN DE CIENCIA Y TECNOLOGÍA",
     "nombre_programa": "Nombre del programa: PROGRAMA INTEGRAL DE SERVICIO SOCIAL EN CIENCIA Y TECNOLOGÍA (20038a1419)",
@@ -3692,7 +3692,7 @@
   {
     "id_actividad": 247,
     "nombre_actividad": "Actividad: -",
-    "numero_vacantes": "Vacantes: -1",
+    "numero_vacantes": "Vacantes: 0",
     "nombre_prestatario": "Prestatario : DDiCyT (100204400)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCIÓN DE DIFUSIÓN DE CIENCIA Y TECNOLOGÍA",
     "nombre_programa": "Nombre del programa: PROGRAMA INTEGRAL DE SERVICIO SOCIAL EN CIENCIA Y TECNOLOGÍA (20038a1419)",
@@ -3752,7 +3752,7 @@
   {
     "id_actividad": 251,
     "nombre_actividad": "Actividad: -",
-    "numero_vacantes": "Vacantes: -112",
+    "numero_vacantes": "Vacantes: -104",
     "nombre_prestatario": "Prestatario : DDiCyT (100204400)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCIÓN DE DIFUSIÓN DE CIENCIA Y TECNOLOGÍA",
     "nombre_programa": "Nombre del programa: PROGRAMA INTEGRAL DE SERVICIO SOCIAL EN CIENCIA Y TECNOLOGÍA (20038a1419)",
@@ -3797,7 +3797,7 @@
   {
     "id_actividad": 254,
     "nombre_actividad": "Actividad: APOYO COMO GUÍA Y OPERADOR DE MANTENIMIETNO DE EXHIBICIONES INTERACTIVAS EN EL PLANETARIO L.E.E",
-    "numero_vacantes": "Vacantes: 35",
+    "numero_vacantes": "Vacantes: 36",
     "nombre_prestatario": "Prestatario : DDiCyT (100204400)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCIÓN DE DIFUSIÓN DE CIENCIA Y TECNOLOGÍA",
     "nombre_programa": "Nombre del programa: PROGRAMA INTEGRAL DE SERVICIO SOCIAL EN CIENCIA Y TECNOLOGÍA (20038a1419)",
@@ -4112,7 +4112,7 @@
   {
     "id_actividad": 275,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO, ACADEMICO, INFORMATICO, DIRECCION, PROCESOS",
-    "numero_vacantes": "Vacantes: 289",
+    "numero_vacantes": "Vacantes: 287",
     "nombre_prestatario": "Prestatario : DIRECCION DE EDUCACION SUPERIOR (100202200)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE EDUCACION SUPERIOR, SECRETARIA ACADEMICA",
     "nombre_programa": "Nombre del programa: REALIZAR ACTIVIDADES DE APOYO SUSTANTIVAS A LA DES (05075a9053)",
@@ -4157,7 +4157,7 @@
   {
     "id_actividad": 278,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO AL D.C.T.S.S.",
-    "numero_vacantes": "Vacantes: -27",
+    "numero_vacantes": "Vacantes: -22",
     "nombre_prestatario": "Prestatario : DESS (100200300)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE EGRESADOS Y SERVICIO SOCIAL",
     "nombre_programa": "Nombre del programa: APOYO ADMINISTRATIVO EN EL AREA DE CONTROL Y TRAMITE (05022a5857)",
@@ -4247,7 +4247,7 @@
   {
     "id_actividad": 284,
     "nombre_actividad": "Actividad: PLANASSZE-BRIGADAS MULTIDICIPLINARIAS DE SERVICIO SOCIAL",
-    "numero_vacantes": "Vacantes: -26",
+    "numero_vacantes": "Vacantes: 232",
     "nombre_prestatario": "Prestatario : D. E. Y S.S. (100400100)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE EGRESADOS Y SERVICIO SOCIAL-PLANASSZE",
     "nombre_programa": "Nombre del programa: PLANASSZE - PLAN NACIONAL DE SERVICIO SOCIAL EN ZONAS EJIDALES (22022a1106)",
@@ -4322,7 +4322,7 @@
   {
     "id_actividad": 289,
     "nombre_actividad": "Actividad: APOYO EN LAS ACTIVIDADES DEL PROCESO DE INCUBACIÓN A DISTANCIA",
-    "numero_vacantes": "Vacantes: 265",
+    "numero_vacantes": "Vacantes: 266",
     "nombre_prestatario": "Prestatario : DIET (100206102)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCIÓN DE INCUBACIÓN DE EMPRESAS TECNOLÓGICAS",
     "nombre_programa": "Nombre del programa: EMPRENDER CON INNOVACIÓN A DISTANCIA (05553a8399)",
@@ -4472,7 +4472,7 @@
   {
     "id_actividad": 299,
     "nombre_actividad": "Actividad: APOYO EN LA EJECUCIÓN EN LOS PROGRAMAS Y CONTROLES DE CALIDAD DE LOS TRABAJOS DE MANT. EN GENERAL",
-    "numero_vacantes": "Vacantes: 49",
+    "numero_vacantes": "Vacantes: 50",
     "nombre_prestatario": "Prestatario : DRMYS (100206200)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE RECURSOS MATERIALES Y SERVICIOS",
     "nombre_programa": "Nombre del programa: ADMINISTRACION, DISEÑO DE PROGRAMAS Y CONTROL DE CALIDAD DE LOS TRABAJOS DE MANT. Y MANEJO DE RCU (22542a7773)",
@@ -4487,7 +4487,7 @@
   {
     "id_actividad": 300,
     "nombre_actividad": "Actividad: APOYO EN EL MANEJO INTEGRAL DE FOR.S.U. .Y. FORR.M.E EN EL IPN Y SUS APLICACIONES.",
-    "numero_vacantes": "Vacantes: 37",
+    "numero_vacantes": "Vacantes: 38",
     "nombre_prestatario": "Prestatario : DRMYS (100206200)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION DE RECURSOS MATERIALES Y SERVICIOS",
     "nombre_programa": "Nombre del programa: PLANTA DE PRODUCCIÓN DE COMPOSTA Y VIVERO DEL IPN (22542a7667)",
@@ -4532,7 +4532,7 @@
   {
     "id_actividad": 303,
     "nombre_actividad": "Actividad: APOYO A LA VINCULACIÓN INTERNACIONAL A DISTANCIA",
-    "numero_vacantes": "Vacantes: 25",
+    "numero_vacantes": "Vacantes: 24",
     "nombre_prestatario": "Prestatario : D.R.I (100202001)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCIÓN DE RELACIONES INTERNACIONALES",
     "nombre_programa": "Nombre del programa: APOYO A LA VINCULACIÓN INTERNACIONAL A DISTANCIA (05093a8773)",
@@ -4667,7 +4667,7 @@
   {
     "id_actividad": 312,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: 9",
+    "numero_vacantes": "Vacantes: 12",
     "nombre_prestatario": "Prestatario : DELEGACION DE FISCALIZACION DE TLALNEPANTLA (240107014)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION GENERAL DE FISCALIZACION/SECRETARIA DE FINANZAS/GOBIERNO DEL ESTADO DE MEXICO",
     "nombre_programa": "Nombre del programa: ELABORACION DE PAPELES DE TRABAJO (05172H5727)",
@@ -4682,7 +4682,7 @@
   {
     "id_actividad": 313,
     "nombre_actividad": "Actividad: PAPELES DE TRABAJO",
-    "numero_vacantes": "Vacantes: 19",
+    "numero_vacantes": "Vacantes: 21",
     "nombre_prestatario": "Prestatario : DELEGACION DE FISCALIZACION DE TLALNEPANTLA (240107014)",
     "nombre_largo_prestatario": "Nombre largo: DIRECCION GENERAL DE FISCALIZACION/SECRETARIA DE FINANZAS/GOBIERNO DEL ESTADO DE MEXICO",
     "nombre_programa": "Nombre del programa: ELABORACION DE PAPELES DE TRABAJO (05172H5727)",
@@ -4772,7 +4772,7 @@
   {
     "id_actividad": 319,
     "nombre_actividad": "Actividad: APOYO EN LAS DIFERENTES AREAS DE LA INSTITUCION",
-    "numero_vacantes": "Vacantes: 811",
+    "numero_vacantes": "Vacantes: 849",
     "nombre_prestatario": "Prestatario : ENCB (100112600)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA NACIONAL DE CIENCIAS BIOLOGICAS",
     "nombre_programa": "Nombre del programa: PROGRAMA PARA ALUMNOS EXTERNOS DE SERVICIO SOCIAL EN LA ENCB (20690a3044)",
@@ -4787,7 +4787,7 @@
   {
     "id_actividad": 320,
     "nombre_actividad": "Actividad: APOYO A LA DOCENCIA Y DESARROLLO DE LOS DIFERENTES DEPARTAMENTOS DE LA ENCB",
-    "numero_vacantes": "Vacantes: 672",
+    "numero_vacantes": "Vacantes: 820",
     "nombre_prestatario": "Prestatario : ENCB (100112600)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA NACIONAL DE CIENCIAS BIOLOGICAS",
     "nombre_programa": "Nombre del programa: PROGRAMAS DE EDUCACION PARA LA ENCB (02690a2081)",
@@ -4802,7 +4802,7 @@
   {
     "id_actividad": 321,
     "nombre_actividad": "Actividad: APOYO A LA INVESTIGACION DE LOS DIFERENTES DEPARTAMENTOS DE LA ENCB",
-    "numero_vacantes": "Vacantes: 708",
+    "numero_vacantes": "Vacantes: 803",
     "nombre_prestatario": "Prestatario : ENCB (100112600)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA NACIONAL DE CIENCIAS BIOLOGICAS",
     "nombre_programa": "Nombre del programa: PROGRAMAS DE INVESTIGACION PARA LA ENCB (20690a2082)",
@@ -4817,7 +4817,7 @@
   {
     "id_actividad": 322,
     "nombre_actividad": "Actividad: ORGANIZACIÓN E INVENTARIO DE PREPARACIONES MICROSCOPICAS PERTENECIENTES A FIBRAS TEXTILES Y MADERAS",
-    "numero_vacantes": "Vacantes: -3",
+    "numero_vacantes": "Vacantes: 2",
     "nombre_prestatario": "Prestatario : ENCRYM (241302510)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA NACIONAL DE CONSERVACION, RESTAURACION Y MUSEOGRAFIA",
     "nombre_programa": "Nombre del programa: ENCRYM, INVESTIGACIÒN EN EL LABOARATORIO DE BIOLOGÍA (02325c0692)",
@@ -4862,7 +4862,7 @@
   {
     "id_actividad": 325,
     "nombre_actividad": "Actividad: APOYO A ORIENTACIÓN JUVENIL",
-    "numero_vacantes": "Vacantes: 995",
+    "numero_vacantes": "Vacantes: 996",
     "nombre_prestatario": "Prestatario : ESCA UST (100112200)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE COMERCIO Y ADMINISTRACION, UNIDAD SANTO TOMAS",
     "nombre_programa": "Nombre del programa: APOYO A LA SUBDIRECCIÓN DE SERVICIOS EDUCATIVOS E INTEGRACIÓN SOCIAL (08230a1082)",
@@ -4937,7 +4937,7 @@
   {
     "id_actividad": 330,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: 993",
+    "numero_vacantes": "Vacantes: 994",
     "nombre_prestatario": "Prestatario : ESCA UST (100112200)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE COMERCIO Y ADMINISTRACION, UNIDAD SANTO TOMAS",
     "nombre_programa": "Nombre del programa: APOYO A LA SUBDIRECCIÓN DE SERVICIOS EDUCATIVOS E INTEGRACIÓN SOCIAL (08230a1082)",
@@ -5297,7 +5297,7 @@
   {
     "id_actividad": 354,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: 957",
+    "numero_vacantes": "Vacantes: 959",
     "nombre_prestatario": "Prestatario : ESCA UST (100112200)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE COMERCIO Y ADMINISTRACION, UNIDAD SANTO TOMAS",
     "nombre_programa": "Nombre del programa: APOYO A SERVICIO SOCIAL (08230a1103)",
@@ -5402,7 +5402,7 @@
   {
     "id_actividad": 361,
     "nombre_actividad": "Actividad: APOYO A LAS DIVERSAS ACTIVIDADES DEL DEPARTAMENTO",
-    "numero_vacantes": "Vacantes: 994",
+    "numero_vacantes": "Vacantes: 995",
     "nombre_prestatario": "Prestatario : ESCA UST (100112200)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE COMERCIO Y ADMINISTRACION, UNIDAD SANTO TOMAS",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL DE ALUMNOS EXTERNOS (05563a3790)",
@@ -5492,7 +5492,7 @@
   {
     "id_actividad": 367,
     "nombre_actividad": "Actividad: ANALISIS DE MERCADO EN LOS SECTORES INDUSTRIALES DE VALLEJO",
-    "numero_vacantes": "Vacantes: 0",
+    "numero_vacantes": "Vacantes: 1",
     "nombre_prestatario": "Prestatario : ESCOM (100113300)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE COMPUTO",
     "nombre_programa": "Nombre del programa: VINCULACION ACADEMICA Y SECTORIAL DE LA ESCOM (02330a1622)",
@@ -5522,7 +5522,7 @@
   {
     "id_actividad": 369,
     "nombre_actividad": "Actividad: APOYO A LAS ACTIVIDADES DIVERSAS DE LA ESE",
-    "numero_vacantes": "Vacantes: -6",
+    "numero_vacantes": "Vacantes: 15",
     "nombre_prestatario": "Prestatario : ESE (100112400)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE ECONOMIA",
     "nombre_programa": "Nombre del programa: APOYO AL SERVICIO SOCIAL INTERINSTITUCIONAL (08340a0950)",
@@ -5567,7 +5567,7 @@
   {
     "id_actividad": 372,
     "nombre_actividad": "Actividad: APOYO Y ASESORÍA A LAS DIFERENTES ÁREAS DE LA ESEO DE ACUERDO CON SU PERFIL Y COMPETENCIAS",
-    "numero_vacantes": "Vacantes: -27",
+    "numero_vacantes": "Vacantes: -18",
     "nombre_prestatario": "Prestatario : ESEO (100101700)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE ENFERMERIA Y OBSTETRICIA",
     "nombre_programa": "Nombre del programa: PROGRAMAS MULTIDISCIPLINARIOS ACADEMICO-ADMINISTRATIVOS DE SERVICIO SOCIAL II (22350a1625)",
@@ -5672,7 +5672,7 @@
   {
     "id_actividad": 379,
     "nombre_actividad": "Actividad: APOYO AL MANTENIMIENTO DEL EQUIPO DE COMPUTO EN LOS DIFERENTES LABORATORIOS",
-    "numero_vacantes": "Vacantes: 84",
+    "numero_vacantes": "Vacantes: 85",
     "nombre_prestatario": "Prestatario : ESIME AZCAPOTZALCO (100102000)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD AZCAPOTZALCO",
     "nombre_programa": "Nombre del programa: OTROS APOYOS PARA LA ESIME AZC EN DIVERSAS ACTIVIDADES CON ALUMNOS DE OTRAS UNIDADES ACADÉMICAS (02280a2030)",
@@ -5687,7 +5687,7 @@
   {
     "id_actividad": 380,
     "nombre_actividad": "Actividad: AUXILIAR EN FUNCIONES ADMINISTRATIVAS EN SUBDIRECCIONES,DEPTOS, UNIDADES Y COORDINACIONES",
-    "numero_vacantes": "Vacantes: 967",
+    "numero_vacantes": "Vacantes: 979",
     "nombre_prestatario": "Prestatario : ESIME AZCAPOTZALCO (100102000)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD AZCAPOTZALCO",
     "nombre_programa": "Nombre del programa: OTROS APOYOS PARA LA ESIME AZC EN DIVERSAS ACTIVIDADES CON ALUMNOS DE OTRAS UNIDADES ACADÉMICAS (02280a2030)",
@@ -5702,7 +5702,7 @@
   {
     "id_actividad": 381,
     "nombre_actividad": "Actividad: APOYO EN ACTIVIDADES ACADÉMICAS EN LABORATORIOS Y TALLERES",
-    "numero_vacantes": "Vacantes: 954",
+    "numero_vacantes": "Vacantes: 965",
     "nombre_prestatario": "Prestatario : ESIME AZCAPOTZALCO (100102000)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD AZCAPOTZALCO",
     "nombre_programa": "Nombre del programa: OTROS APOYOS PARA LA ESIME AZC EN DIVERSAS ACTIVIDADES CON ALUMNOS DE OTRAS UNIDADES ACADÉMICAS (02280a2030)",
@@ -5732,7 +5732,7 @@
   {
     "id_actividad": 383,
     "nombre_actividad": "Actividad: APOYO EN PROYECTOS, ACADEMIAS, PROGRAMAS INSTITUCIONALES Y TODA ACTIVIDAD DE TIPO ACADEMICO",
-    "numero_vacantes": "Vacantes: 978",
+    "numero_vacantes": "Vacantes: 979",
     "nombre_prestatario": "Prestatario : ESIME AZCAPOTZALCO (100102000)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD AZCAPOTZALCO",
     "nombre_programa": "Nombre del programa: OTROS APOYOS PARA LA ESIME AZC EN DIVERSAS ACTIVIDADES CON ALUMNOS DE OTRAS UNIDADES ACADÉMICAS (02280a2030)",
@@ -5762,7 +5762,7 @@
   {
     "id_actividad": 385,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO Y ACADEMICO",
-    "numero_vacantes": "Vacantes: -14",
+    "numero_vacantes": "Vacantes: 211",
     "nombre_prestatario": "Prestatario : ESIME CULHUACAN (100102100)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD CULHUACAN",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL EN ATENCION A USUARIOS ESIME CULHUACAN (02290a2052)",
@@ -5807,7 +5807,7 @@
   {
     "id_actividad": 388,
     "nombre_actividad": "Actividad: ACTUALIZACION DE NOTAS Y PRACTICAS PARA LABORATORIOS",
-    "numero_vacantes": "Vacantes: 313",
+    "numero_vacantes": "Vacantes: 317",
     "nombre_prestatario": "Prestatario : ESIME CULHUACAN (100102100)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD CULHUACAN",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL EN ATENCION A USUARIOS ESIME CULHUACAN (02290a2052)",
@@ -5822,7 +5822,7 @@
   {
     "id_actividad": 389,
     "nombre_actividad": "Actividad: ACTUALIZACION DE NOTAS Y PRACTICAS PARA LABORATORIOS",
-    "numero_vacantes": "Vacantes: 93",
+    "numero_vacantes": "Vacantes: 95",
     "nombre_prestatario": "Prestatario : ESIME CULHUACAN (100102100)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD CULHUACAN",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL EN ATENCION A USUARIOS ESIME CULHUACAN (02290a2052)",
@@ -5837,7 +5837,7 @@
   {
     "id_actividad": 390,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO A LA UNIDAD POLITECNICA DE INTEGRACIÓN SOCIAL (POLIEMPRENDE)",
-    "numero_vacantes": "Vacantes: 8",
+    "numero_vacantes": "Vacantes: 9",
     "nombre_prestatario": "Prestatario : ESIME CULHUACAN (100102100)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD CULHUACAN",
     "nombre_programa": "Nombre del programa: RECLUTAMIENTO DE ALUMNOS DE SERVICIO SOCIAL EXTERNO PARA ESIME CULHUACAN (02290a2537)",
@@ -5852,7 +5852,7 @@
   {
     "id_actividad": 391,
     "nombre_actividad": "Actividad: APOYO A LOS PROCESOS ADMINISTRATIVOS DE LA ESIME CULHUACAN",
-    "numero_vacantes": "Vacantes: 964",
+    "numero_vacantes": "Vacantes: 982",
     "nombre_prestatario": "Prestatario : ESIME CULHUACAN (100102100)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD CULHUACAN",
     "nombre_programa": "Nombre del programa: RECLUTAMIENTO DE ALUMNOS DE SERVICIO SOCIAL EXTERNO PARA ESIME CULHUACAN (02290a2537)",
@@ -6010,7 +6010,7 @@
     "objetivo_programa": "Objetivo: Brindar apoyo a las actividades desarrolladas en los diferentes programas de servicio social registrados en la Unidad Académica, los cuales serán avalados por el Departamento de Extensión y Apoyos Educativos",
     "justificacion_programa": "Justificación: Se registra el programa para externos con el objetivo de avalar la aceptación del Servicio Social, así como dar seguimiento a los alumnos que elijan alguno de los programas de servicio social que se desarrollan en la unidad académica",
     "domicilio_programa": "Domicilio: Calle: AV. TICOMAN, Núm. exterior: 600, Núm. interior: S/N, Colonia: SAN JOSE TICOMAN, Delegación o Municipio: G.A.M",
-    "nombre_representante": "Representante: MARÍA ELENA AVALOS URIBE",
+    "nombre_representante": "Representante: JESSICA MIRIAM TIRADO RUIZ",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: mavalosu@ipn.mx, Tel: 57296000 (56071), Fax:",
     "apoyos_programa": "Apoyos: BIBLIOGRAFÍA, MATERIAL Y EQUIPO, PAPELERÍA,"
   },
@@ -6062,7 +6062,7 @@
   {
     "id_actividad": 405,
     "nombre_actividad": "Actividad: APOYO A LAS ACADEMIAS Y LABORATORIOS, ASI COMO A LAS AREAS ADMIVAS. DEL PLANTEL",
-    "numero_vacantes": "Vacantes: 22",
+    "numero_vacantes": "Vacantes: 30",
     "nombre_prestatario": "Prestatario : ESIME ZACATENCO (100101900)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA MECANICA Y ELECTRICA, UNIDAD ZACATENCO",
     "nombre_programa": "Nombre del programa: ESIME SERVICIO SOCIAL EXTERNO (20310a3069)",
@@ -6092,7 +6092,7 @@
   {
     "id_actividad": 407,
     "nombre_actividad": "Actividad: APOYO A LAS ACTIVIDADES ACADÉMICAS, ADMINISTRATIVAS Y DE INVESTIGACIÓN",
-    "numero_vacantes": "Vacantes: 278",
+    "numero_vacantes": "Vacantes: 279",
     "nombre_prestatario": "Prestatario : ESIQIE (100111900)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE INGENIERIA QUIMICA E INDUSTRIAS EXTRACTIVAS",
     "nombre_programa": "Nombre del programa: ESIQIE SERVICIO SOCIAL EXTERNO (A DISTANCIA) (05320a8197)",
@@ -6212,7 +6212,7 @@
   {
     "id_actividad": 415,
     "nombre_actividad": "Actividad: PLANEACIÓN ORGANIZACIÓN Y ADECUACIÓN DEL PROCESO DE LOS DIFERENTES DEPTO. DE LA ESM",
-    "numero_vacantes": "Vacantes: 996",
+    "numero_vacantes": "Vacantes: 998",
     "nombre_prestatario": "Prestatario : ESM (100112700)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE MEDICINA",
     "nombre_programa": "Nombre del programa: PROGRAMA DE SERVICIO SOCIAL EN APOYOS DIVERSOS A LA ESM (08380a1870)",
@@ -6257,7 +6257,7 @@
   {
     "id_actividad": 418,
     "nombre_actividad": "Actividad: APOYAR EN LAS DIFERENTES ACTIVIDADES INHERENTES A LA DIRECCION",
-    "numero_vacantes": "Vacantes: 88",
+    "numero_vacantes": "Vacantes: 92",
     "nombre_prestatario": "Prestatario : EST (100112500)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE TURISMO",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL DE LA ESCUELA SUPERIOR DE TURISMO 042 \"DIRECCION\" (05390a4889)",
@@ -6272,7 +6272,7 @@
   {
     "id_actividad": 419,
     "nombre_actividad": "Actividad: APOYO AL AREA ACADEMICA DE LA SUBDIRECCION",
-    "numero_vacantes": "Vacantes: 62",
+    "numero_vacantes": "Vacantes: 91",
     "nombre_prestatario": "Prestatario : EST (100112500)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE TURISMO",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL ESCUELA SUPERIOR DE TURISMO 042 \"SUB ACADEMICA\" (05390a4890)",
@@ -6287,7 +6287,7 @@
   {
     "id_actividad": 420,
     "nombre_actividad": "Actividad: APOYO EN LOS DIFERENTES PROYECTOS DE LOS DOCENTES",
-    "numero_vacantes": "Vacantes: 95",
+    "numero_vacantes": "Vacantes: 98",
     "nombre_prestatario": "Prestatario : EST (100112500)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA SUPERIOR DE TURISMO",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL ESCUELA SUPERIOR DE TURISMO 042 \"SUB ACADEMICA\" (05390a4890)",
@@ -6317,7 +6317,7 @@
   {
     "id_actividad": 422,
     "nombre_actividad": "Actividad: APOYO CON COLECTA DE LIBROS Y MATERIAL DIDÁCTICO PARA NIÑOS A DISTANCIA (CECYT)",
-    "numero_vacantes": "Vacantes: 180",
+    "numero_vacantes": "Vacantes: 184",
     "nombre_prestatario": "Prestatario : ESCUELA VESPERTINA BENITO JUÁREZ (241331045)",
     "nombre_largo_prestatario": "Nombre largo: ESCUELA VESPERTINA BENITO JUÁREZ",
     "nombre_programa": "Nombre del programa: APOYO EN COLECTA DE LIBROS Y MATERIAL DIDÁCTICO PARA BIBLIOTECA ESCOLAR A DISTANCIA (CECYT) (05841c8765)",
@@ -6392,7 +6392,7 @@
   {
     "id_actividad": 427,
     "nombre_actividad": "Actividad: APOYO EN PROYECTOS A DISTANCIA",
-    "numero_vacantes": "Vacantes: -25",
+    "numero_vacantes": "Vacantes: -24",
     "nombre_prestatario": "Prestatario : GM INTEGRACIONES (400032424)",
     "nombre_largo_prestatario": "Nombre largo: GM INTEGRACIONES Y SOLUCIONES EN CONTROL SA DE CV",
     "nombre_programa": "Nombre del programa: PROGRAMA DE BECARIOS EN GM INTEGRACIONES A DISTANCIA (05631l8604)",
@@ -6422,7 +6422,7 @@
   {
     "id_actividad": 429,
     "nombre_actividad": "Actividad: DISEÑO DE PROGRAMAS COMPUTACIONALES EN BENEFICIO DE LAS DEMANDAS CIUDADANAS",
-    "numero_vacantes": "Vacantes: -3",
+    "numero_vacantes": "Vacantes: -1",
     "nombre_prestatario": "Prestatario : ALCALDIA IZTAPALAPA (220900000)",
     "nombre_largo_prestatario": "Nombre largo: GOBIERNO DE DE LA CIUDAD DE MÉXICO, ALCALDIA IZTAPALAPA",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL MULTIDISCIPLINARIO (22009b0270)",
@@ -6437,7 +6437,7 @@
   {
     "id_actividad": 430,
     "nombre_actividad": "Actividad: PROGRAMA DE SERVICIO SOCIAL EN APOYO AL H.AYUNTAMIENTO DE ECATEPEC DE MORELOS.",
-    "numero_vacantes": "Vacantes: 20",
+    "numero_vacantes": "Vacantes: 23",
     "nombre_prestatario": "Prestatario : H. AYUNTAMIENTO DE ECATEPEC DE MORELOS (240105300)",
     "nombre_largo_prestatario": "Nombre largo: H. AYUNTAMIENTO CONSTITUCIONAL DE ECATEPEC DE MORELOS, MEXICO",
     "nombre_programa": "Nombre del programa: DESARROLLO SUSTENTABLE,SEGURIDAD PUBLICA Y COMBATE A LA MARGINACION (02067H2014)",
@@ -6452,7 +6452,7 @@
   {
     "id_actividad": 431,
     "nombre_actividad": "Actividad: APOYO A LAS DIFERENTES ÁREAS DEL AYUNTAMIENTO DE TEOLOYUCAN",
-    "numero_vacantes": "Vacantes: 15",
+    "numero_vacantes": "Vacantes: 25",
     "nombre_prestatario": "Prestatario : H. AYUNTAMIENTO CONSTITUCIONAL DE TEOLOYUCAN (240400014)",
     "nombre_largo_prestatario": "Nombre largo: H. AYUNTAMIENTO CONSTITUCIONAL DE TEOLOYUCAN",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL (05042H4466)",
@@ -6467,7 +6467,7 @@
   {
     "id_actividad": 432,
     "nombre_actividad": "Actividad: APOYO TECNICO EN LAS DIVERSAS AREAS DEL MUNICIPIO",
-    "numero_vacantes": "Vacantes: 13",
+    "numero_vacantes": "Vacantes: 18",
     "nombre_prestatario": "Prestatario : H, AYUN. DE ATIZAPAN DE ZARAGOZA (240103601)",
     "nombre_largo_prestatario": "Nombre largo: H. AYUNTAMIENTO DE ATIZAPAN DE ZARAGOZA",
     "nombre_programa": "Nombre del programa: PROGRAMA DE APOYO TECNICO PARA EL AYUNTAMIENTO DE ATIZAPAN DE ZARAGOZA (05251H4653)",
@@ -6497,7 +6497,7 @@
   {
     "id_actividad": 434,
     "nombre_actividad": "Actividad: FACILITAR EL MANEJO DE LA INFORMACION",
-    "numero_vacantes": "Vacantes: 14",
+    "numero_vacantes": "Vacantes: 15",
     "nombre_prestatario": "Prestatario : TULTITLAN (240105200)",
     "nombre_largo_prestatario": "Nombre largo: H. AYUNTAMIENTO DE TULTITLAN",
     "nombre_programa": "Nombre del programa: EVALUACION Y ESTUDIO DE LAS AREAS DE LA ADMINISTRACION (08069H1471)",
@@ -6557,7 +6557,7 @@
   {
     "id_actividad": 438,
     "nombre_actividad": "Actividad: APOYO A LA EDUCACION EN FAVOR DEL DESARROLLO SOCIAL E INFRAESTRUCTURA DEL MUNICIPIO",
-    "numero_vacantes": "Vacantes: -44",
+    "numero_vacantes": "Vacantes: -45",
     "nombre_prestatario": "Prestatario : AYUNTAMIENTO DE TLALNEPANTLA (240103500)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE AYUNTAMIENTO CONSTITUCIONAL DE TLALNEPANTLA DE BAZ",
     "nombre_programa": "Nombre del programa: LA EDUCACION EN FAVOR DEL DESARROLLO SOCIAL E INFRAESTRUCTURA DEL MUNICIPIO DE TLALNEPANTLA DE BAZ (02073H9058)",
@@ -6572,7 +6572,7 @@
   {
     "id_actividad": 439,
     "nombre_actividad": "Actividad: CONTROL DE INVENTARIOS APOYO ADMINISTRATIVO",
-    "numero_vacantes": "Vacantes: 4",
+    "numero_vacantes": "Vacantes: 8",
     "nombre_prestatario": "Prestatario : H. AYUNTAMIENTO DE NEZAHUALCOYOTL (240105401)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE AYUNTAMIENTO DE CIUDAD NEZAHUALCOYOTL",
     "nombre_programa": "Nombre del programa: POLITICA Y PLANEACION ECONOMICA Y SOCIAL (22164H2914)",
@@ -6587,7 +6587,7 @@
   {
     "id_actividad": 440,
     "nombre_actividad": "Actividad: SOPORTE TÉCNICO",
-    "numero_vacantes": "Vacantes: 7",
+    "numero_vacantes": "Vacantes: 8",
     "nombre_prestatario": "Prestatario : H. AYUNTAMIENTO DE IXTAPALUCA (240106300)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE AYUNTAMIENTO DE IXTAPALUCA, ESTADO DE MEXICO",
     "nombre_programa": "Nombre del programa: FORTALECIMIENTO MUNICIPAL (22028H2618)",
@@ -6602,7 +6602,7 @@
   {
     "id_actividad": 441,
     "nombre_actividad": "Actividad: APOYO EN LINEA EN FINANZAS PÚBLICAS, ANÁLISIS, PROYECCTOS, INVESTIGACIÓN Y PRESUPUESTO. A DISTANCIA",
-    "numero_vacantes": "Vacantes: -12",
+    "numero_vacantes": "Vacantes: -13",
     "nombre_prestatario": "Prestatario : H. CAMARA DE DIPUTADOS (230000100)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE CAMARA DE DIPUTADOS",
     "nombre_programa": "Nombre del programa: “ANÁLISIS DEL PROCESO ADMINISTRATIVO” (A DISTANCIA) (05001h8389)",
@@ -6617,7 +6617,7 @@
   {
     "id_actividad": 442,
     "nombre_actividad": "Actividad: APOYO EN LINEA EN PROYECTOS E INVESTIGACIONES, AREAS ADMINISTRATIVAS Y COMISIONES. A DISTANCIA",
-    "numero_vacantes": "Vacantes: -3",
+    "numero_vacantes": "Vacantes: -4",
     "nombre_prestatario": "Prestatario : H. CAMARA DE DIPUTADOS (230000100)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE CAMARA DE DIPUTADOS",
     "nombre_programa": "Nombre del programa: “ANÁLISIS DOCUMENTAL” (A DISTANCIA) (05001h8390)",
@@ -6632,7 +6632,7 @@
   {
     "id_actividad": 443,
     "nombre_actividad": "Actividad: APOYO EN LINEA EN PRESUPUESTO, INVESTIGACION, PROYECTOS DE AREAS ADMINISTRATIVAS. A DISTANCIA",
-    "numero_vacantes": "Vacantes: -18",
+    "numero_vacantes": "Vacantes: -16",
     "nombre_prestatario": "Prestatario : H. CAMARA DE DIPUTADOS (230000100)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE CAMARA DE DIPUTADOS",
     "nombre_programa": "Nombre del programa: “ANÁLISIS PRESUPUESTAL” (A DISTANCIA) (05001h8391)",
@@ -6662,7 +6662,7 @@
   {
     "id_actividad": 445,
     "nombre_actividad": "Actividad: APOYO EN LINEA EN TAREAS DE PROYECTOS E INVESTIGACION EN COMISIONES Y ÁREAS A FINES A DISTANCIA.",
-    "numero_vacantes": "Vacantes: 1",
+    "numero_vacantes": "Vacantes: 0",
     "nombre_prestatario": "Prestatario : H. CAMARA DE DIPUTADOS (230000100)",
     "nombre_largo_prestatario": "Nombre largo: HONORABLE CAMARA DE DIPUTADOS",
     "nombre_programa": "Nombre del programa: “INVESTIGACION LEGISLATIVA” (A DISTANCIA) (05001h8393)",
@@ -6677,7 +6677,7 @@
   {
     "id_actividad": 446,
     "nombre_actividad": "Actividad: COLABORAR EN LAS ACTIVIDADES DE LAS DIVERSAS AREAS TÉCNICO ADMINISTRATIVAS",
-    "numero_vacantes": "Vacantes: 3",
+    "numero_vacantes": "Vacantes: 4",
     "nombre_prestatario": "Prestatario : IMSS NORTE (241501338)",
     "nombre_largo_prestatario": "Nombre largo: IMSS DELEGACION NORTE, DE LA CIUDAD DE MÉXICO",
     "nombre_programa": "Nombre del programa: SEGURIDAD Y SOLIDARIDAD SOCIAL II (05495f4976)",
@@ -6752,7 +6752,7 @@
   {
     "id_actividad": 451,
     "nombre_actividad": "Actividad: APOYO A LAS DIVERSAS ACTIVIDADES DEL PLANTEL",
-    "numero_vacantes": "Vacantes: 35",
+    "numero_vacantes": "Vacantes: 36",
     "nombre_prestatario": "Prestatario : IMEP SANTA MARTHA (400023602)",
     "nombre_largo_prestatario": "Nombre largo: INSTITUTO MEXICANO DE EDUCACION PROFESIONAL, PLANTEL SANTA MARTHA",
     "nombre_programa": "Nombre del programa: APOYO A LA COMUNIDAD (05453l4149)",
@@ -7052,7 +7052,7 @@
   {
     "id_actividad": 471,
     "nombre_actividad": "Actividad: ACTIVIDADES ADMINISTRATIVAS Y TÉCNICAS",
-    "numero_vacantes": "Vacantes: 65",
+    "numero_vacantes": "Vacantes: 69",
     "nombre_prestatario": "Prestatario : LICONSA S.A. DE C.V. (240600900)",
     "nombre_largo_prestatario": "Nombre largo: LICONSA S.A. DE C.V.",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL LICONSA (22295l0872)",
@@ -7082,7 +7082,7 @@
   {
     "id_actividad": 473,
     "nombre_actividad": "Actividad: APOYO EN ÁREA DE OFICINAS GENERALES",
-    "numero_vacantes": "Vacantes: 2",
+    "numero_vacantes": "Vacantes: 3",
     "nombre_prestatario": "Prestatario : MEMORIA Y TOLERANCIA (301001022)",
     "nombre_largo_prestatario": "Nombre largo: MEMORIA Y TOLERANCIA, A.C.",
     "nombre_programa": "Nombre del programa: APOYO A GUIAS DE MUSEO (02247k3177)",
@@ -7142,7 +7142,7 @@
   {
     "id_actividad": 477,
     "nombre_actividad": "Actividad: APOYO A LAS ACTIVIDADES QUE SE LLEVAN A CABO EN EL MUSEO DEL AGUA",
-    "numero_vacantes": "Vacantes: -1",
+    "numero_vacantes": "Vacantes: 1",
     "nombre_prestatario": "Prestatario : OAPAS-NAUCALPAN (241800601)",
     "nombre_largo_prestatario": "Nombre largo: ORGANISMO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE NAUCALPAN",
     "nombre_programa": "Nombre del programa: ANALISIS DE PRECIOS UNITARIOS Y GENERADORES DE OBRA (09206H3860)",
@@ -7150,14 +7150,14 @@
     "objetivo_programa": "Objetivo: ENGLOBAR UN CONJUNTO DE ACCIONES ENCAMINADAS AL DESARROLLO DE PROYECTOS QUE PROPICIEN EN LA POBLACIÓN EL CUIDADO Y MANEJO EFICIENTE DEL AGUA PROCURANDO LA CONSERVACIÓN DEL VITAL LIQUIDO PARA OTORGAR UN SERVICIO CON CALIDAD.",
     "justificacion_programa": "Justificación: EL PRESTADOR APLICARÁ SUS CONOCIMIENTOS EN EL CONJUNTO DE PROCEDIMIENTOS QUE SE LLEVAN ACABO PARA EL TRATAMIENTO DE AGUAS RESIDUALES Y SANEAMIENTO DE REDES DE DRENAJE Y ALCANTARILLADO, MANTENIENDO EN CONDICIONES ADECUADAS LA INFRAESTRUCTURA PARA PROPORCIONAR UNA MEJOR CALIDAD DE VIDA A LA POBLACIÓN",
     "domicilio_programa": "Domicilio: Calle: SAN LUIS TLATILCO, Núm. exterior: 19, Núm. interior: S/N, Colonia: PARQUE INDUSTRIAL NAUCALPAN, Delegación o Municipio: NAUCALPAN",
-    "nombre_representante": "Representante: OSCAR ZAMUDIO RAMÍREZ",
+    "nombre_representante": "Representante: JESÚS FERNANDO MATÁN MERINO",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: marisolluna@oapas-naucalpan.gob.mx, Tel: (55)53711900 ext 2951, Fax:",
     "apoyos_programa": "Apoyos: ASESORÍA, CAPACITACIÓN,"
   },
   {
     "id_actividad": 478,
     "nombre_actividad": "Actividad: APOYO EN LA GESTIÓN INFORMÁTICA DEL ORGANISMO",
-    "numero_vacantes": "Vacantes: 14",
+    "numero_vacantes": "Vacantes: 17",
     "nombre_prestatario": "Prestatario : OAPAS-NAUCALPAN (241800601)",
     "nombre_largo_prestatario": "Nombre largo: ORGANISMO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE NAUCALPAN",
     "nombre_programa": "Nombre del programa: ANALISIS DE PRECIOS UNITARIOS Y GENERADORES DE OBRA (09206H3860)",
@@ -7165,14 +7165,14 @@
     "objetivo_programa": "Objetivo: ENGLOBAR UN CONJUNTO DE ACCIONES ENCAMINADAS AL DESARROLLO DE PROYECTOS QUE PROPICIEN EN LA POBLACIÓN EL CUIDADO Y MANEJO EFICIENTE DEL AGUA PROCURANDO LA CONSERVACIÓN DEL VITAL LIQUIDO PARA OTORGAR UN SERVICIO CON CALIDAD.",
     "justificacion_programa": "Justificación: EL PRESTADOR APLICARÁ SUS CONOCIMIENTOS EN EL CONJUNTO DE PROCEDIMIENTOS QUE SE LLEVAN ACABO PARA EL TRATAMIENTO DE AGUAS RESIDUALES Y SANEAMIENTO DE REDES DE DRENAJE Y ALCANTARILLADO, MANTENIENDO EN CONDICIONES ADECUADAS LA INFRAESTRUCTURA PARA PROPORCIONAR UNA MEJOR CALIDAD DE VIDA A LA POBLACIÓN",
     "domicilio_programa": "Domicilio: Calle: SAN LUIS TLATILCO, Núm. exterior: 19, Núm. interior: S/N, Colonia: PARQUE INDUSTRIAL NAUCALPAN, Delegación o Municipio: NAUCALPAN",
-    "nombre_representante": "Representante: OSCAR ZAMUDIO RAMÍREZ",
+    "nombre_representante": "Representante: JESÚS FERNANDO MATÁN MERINO",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: marisolluna@oapas-naucalpan.gob.mx, Tel: (55)53711900 ext 2951, Fax:",
     "apoyos_programa": "Apoyos: ASESORÍA, CAPACITACIÓN,"
   },
   {
     "id_actividad": 479,
     "nombre_actividad": "Actividad: ANALISIS DE PRECIOS UNITARIOS",
-    "numero_vacantes": "Vacantes: 15",
+    "numero_vacantes": "Vacantes: 20",
     "nombre_prestatario": "Prestatario : OAPAS-NAUCALPAN (241800601)",
     "nombre_largo_prestatario": "Nombre largo: ORGANISMO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE NAUCALPAN",
     "nombre_programa": "Nombre del programa: ANALISIS DE PRECIOS UNITARIOS Y GENERADORES DE OBRA (09206H3860)",
@@ -7180,7 +7180,7 @@
     "objetivo_programa": "Objetivo: ENGLOBAR UN CONJUNTO DE ACCIONES ENCAMINADAS AL DESARROLLO DE PROYECTOS QUE PROPICIEN EN LA POBLACIÓN EL CUIDADO Y MANEJO EFICIENTE DEL AGUA PROCURANDO LA CONSERVACIÓN DEL VITAL LIQUIDO PARA OTORGAR UN SERVICIO CON CALIDAD.",
     "justificacion_programa": "Justificación: EL PRESTADOR APLICARÁ SUS CONOCIMIENTOS EN EL CONJUNTO DE PROCEDIMIENTOS QUE SE LLEVAN ACABO PARA EL TRATAMIENTO DE AGUAS RESIDUALES Y SANEAMIENTO DE REDES DE DRENAJE Y ALCANTARILLADO, MANTENIENDO EN CONDICIONES ADECUADAS LA INFRAESTRUCTURA PARA PROPORCIONAR UNA MEJOR CALIDAD DE VIDA A LA POBLACIÓN",
     "domicilio_programa": "Domicilio: Calle: SAN LUIS TLATILCO, Núm. exterior: 19, Núm. interior: S/N, Colonia: PARQUE INDUSTRIAL NAUCALPAN, Delegación o Municipio: NAUCALPAN",
-    "nombre_representante": "Representante: OSCAR ZAMUDIO RAMÍREZ",
+    "nombre_representante": "Representante: JESÚS FERNANDO MATÁN MERINO",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: marisolluna@oapas-naucalpan.gob.mx, Tel: (55)53711900 ext 2951, Fax:",
     "apoyos_programa": "Apoyos: ASESORÍA, CAPACITACIÓN,"
   },
@@ -7232,7 +7232,7 @@
   {
     "id_actividad": 483,
     "nombre_actividad": "Actividad: APOYAR A DISTANCIA EN LAS ACTIVIDADES ADMINISTRATIVAS DEL POI",
-    "numero_vacantes": "Vacantes: 26",
+    "numero_vacantes": "Vacantes: 27",
     "nombre_prestatario": "Prestatario : PATRONATO DE OBRAS E INSTALACIONES (100201300)",
     "nombre_largo_prestatario": "Nombre largo: PATRONATO DE OBRAS E INSTALACIONES",
     "nombre_programa": "Nombre del programa: APOYO TECNICO Y/O PROFESIONAL AL POI A DISTANCIA (05004a8700)",
@@ -7292,7 +7292,7 @@
   {
     "id_actividad": 487,
     "nombre_actividad": "Actividad: APOYO A DISTANCIA AL PROMEIN",
-    "numero_vacantes": "Vacantes: -1041",
+    "numero_vacantes": "Vacantes: -1034",
     "nombre_prestatario": "Prestatario : PISSD (100400900)",
     "nombre_largo_prestatario": "Nombre largo: PROGRAMA INTEGRAL DE SERVICIO SOCIAL A DISTANCIA ( PISSD )",
     "nombre_programa": "Nombre del programa: PROGRAMA INTEGRAL DE SERVICIO SOCIAL A DISTANCIA ( PISSD ) (05617a8319)",
@@ -7307,7 +7307,7 @@
   {
     "id_actividad": 488,
     "nombre_actividad": "Actividad: ACTIVIDADES ADMINISTRATIVAS Y AREA DE INFORMATICA",
-    "numero_vacantes": "Vacantes: 0",
+    "numero_vacantes": "Vacantes: -37",
     "nombre_prestatario": "Prestatario : RVOE ESTEC, ZUMPANGO (400023300)",
     "nombre_largo_prestatario": "Nombre largo: RVOE ESCUELA TECNOLOGICA DE ZUMPANGO, A.C.",
     "nombre_programa": "Nombre del programa: DESARROLLO EN AREA DE INFORMATICA (11569a3862)",
@@ -7367,7 +7367,7 @@
   {
     "id_actividad": 492,
     "nombre_actividad": "Actividad: APOYO EN AREA DE SISTEMAS",
-    "numero_vacantes": "Vacantes: -3",
+    "numero_vacantes": "Vacantes: 3",
     "nombre_prestatario": "Prestatario : RVOE IECA, \"GAUSS JORDAN\", A.C. (400008000)",
     "nombre_largo_prestatario": "Nombre largo: RVOE INSTITUTO ESPECIALIZADO EN COMPUTACION Y ADMINISTRACION, \"GAUSS JORDAN\", A.C.",
     "nombre_programa": "Nombre del programa: AUXILIAR ADMINISTRATIVO (05127a3747)",
@@ -7517,7 +7517,7 @@
   {
     "id_actividad": 502,
     "nombre_actividad": "Actividad: APOYO A DIVERSAS ACTIVIDADES DEL PLANTEL",
-    "numero_vacantes": "Vacantes: 49",
+    "numero_vacantes": "Vacantes: 50",
     "nombre_prestatario": "Prestatario : RVOE ILB, PLANTEL LA RAZA (400001302)",
     "nombre_largo_prestatario": "Nombre largo: RVOE INSTITUTO LEONARDO BRAVO, PLANTEL LA RAZA",
     "nombre_programa": "Nombre del programa: PROGRAMA DE APOYO A LA ESCUELA DE ALUMNOS EXTERNOS (05568a7716)",
@@ -7592,7 +7592,7 @@
   {
     "id_actividad": 507,
     "nombre_actividad": "Actividad: APOYO EN LAS FUNCIONES ADMVAS. Y SUSTANTIVAS QUE SE DESARROLLAN EN LAS UNIDADES Y DIRECCIONES",
-    "numero_vacantes": "Vacantes: -4",
+    "numero_vacantes": "Vacantes: -3",
     "nombre_prestatario": "Prestatario : BIENESTAR (241700000)",
     "nombre_largo_prestatario": "Nombre largo: SECRETARIA DE BIENESTAR",
     "nombre_programa": "Nombre del programa: APOYO AL DESARROLLO SOCIAL (08000s0136)",
@@ -7802,7 +7802,7 @@
   {
     "id_actividad": 521,
     "nombre_actividad": "Actividad: APOYO EN LA ELABORACIÓN Y REVISIÓN DE CONTENIDOS TEMÁTICOS DE LAS DIFERENTES MODALIDADES DE ESTUDIOS",
-    "numero_vacantes": "Vacantes: 12",
+    "numero_vacantes": "Vacantes: 13",
     "nombre_prestatario": "Prestatario : S.E.C.T.I. de la CD. MEX. (220000144)",
     "nombre_largo_prestatario": "Nombre largo: SECRETARÍA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN DE LA CIUDAD DE MÉXICO",
     "nombre_programa": "Nombre del programa: PUNTOS DE INNOVACIÓN, LIBERTAD, ARTE, EDUCACIÓN Y SABERES (PILARES) (05410c7688)",
@@ -7892,7 +7892,7 @@
   {
     "id_actividad": 527,
     "nombre_actividad": "Actividad: APOYAR EN EL MANTENIMIENTO OPERATIVO DE LOS EQUIPOS Y SERVICIOS DE CÓMPUTO.",
-    "numero_vacantes": "Vacantes: 24",
+    "numero_vacantes": "Vacantes: 25",
     "nombre_prestatario": "Prestatario : SHCP (240800000)",
     "nombre_largo_prestatario": "Nombre largo: SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
     "nombre_programa": "Nombre del programa: SHCP-SOPORTE TÉCNICO (08000g0546)",
@@ -7907,7 +7907,7 @@
   {
     "id_actividad": 528,
     "nombre_actividad": "Actividad: APOYAR A DISEÑAR E IMPLEMENTAR SISTEMAS INFORMÁTICOS, COMUNICACIONES Y TELECOMUNICACIONES EN LA SICT",
-    "numero_vacantes": "Vacantes: 55",
+    "numero_vacantes": "Vacantes: 54",
     "nombre_prestatario": "Prestatario : SICT (241200000)",
     "nombre_largo_prestatario": "Nombre largo: SECRETARIA DE INFRAESTRUCTURA COMUNICACIONES Y TRANSPORTES",
     "nombre_programa": "Nombre del programa: DESARROLLO Y APLICACIÓN DE TECNOLOGÍAS, SISTEMAS INFORMÁTICOS Y TELECOMUNICACIONES (20000q9020)",
@@ -7922,7 +7922,7 @@
   {
     "id_actividad": 529,
     "nombre_actividad": "Actividad: SOPORTE TÉCNICO EN EL MANEJOJO DE LENGUAJES DE PROGRAMACIÓN MEDIANTE EL USO DE COMPUTADORAS",
-    "numero_vacantes": "Vacantes: 14",
+    "numero_vacantes": "Vacantes: 15",
     "nombre_prestatario": "Prestatario : S.C.G. CDMX (220000127)",
     "nombre_largo_prestatario": "Nombre largo: SECRETARÍA DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO",
     "nombre_programa": "Nombre del programa: APOYO EN EL CONTROL Y EVALUACIÓN DE LA GESTIÓN PÚBLICA DEL GOBIERNO DE LA CIUDAD DE MÉXICO (08028b1726)",
@@ -7967,7 +7967,7 @@
   {
     "id_actividad": 532,
     "nombre_actividad": "Actividad: APOYO SERVICIO SOCIAL FAMEX A DISTANCIA",
-    "numero_vacantes": "Vacantes: 65",
+    "numero_vacantes": "Vacantes: 64",
     "nombre_prestatario": "Prestatario : S.D.N./F.A.M./COMITÉ FAMEX-2019 (241005000)",
     "nombre_largo_prestatario": "Nombre largo: SECRETARÍA DE LA DEFENSA NACIONAL/FUERZA AÉREA MEXICANA/COMITÉ FERIA AEROESPACIAL MÉXICO 2019",
     "nombre_programa": "Nombre del programa: APOYO SERVICIO SOCIAL FAMEX A DISTANCIA (05018p8712)",
@@ -8732,7 +8732,7 @@
   {
     "id_actividad": 583,
     "nombre_actividad": "Actividad: DISEÑAR COGIGOS DE DOCUMENTOS Y EXPEDIENTES DIGITALIZADOS, CREAR Y ORGANIZAR DIRECTORIOS",
-    "numero_vacantes": "Vacantes: 9",
+    "numero_vacantes": "Vacantes: 10",
     "nombre_prestatario": "Prestatario : SRH - CINVESTAV (100200510)",
     "nombre_largo_prestatario": "Nombre largo: SUBDIRECCIÓN DE RECURSOS HUMANOS - CINVESTAV",
     "nombre_programa": "Nombre del programa: FORTALECIMIENTO ADMINISTRATIVO INSTITUCIONAL (02109a3022)",
@@ -8912,7 +8912,7 @@
   {
     "id_actividad": 595,
     "nombre_actividad": "Actividad: APOYO EL MANTENIMIENTO DE BASES DE DATOS Y CAPTURA DE INFORMACIÓN",
-    "numero_vacantes": "Vacantes: 12",
+    "numero_vacantes": "Vacantes: 20",
     "nombre_prestatario": "Prestatario : TSJCDMX (230001600)",
     "nombre_largo_prestatario": "Nombre largo: TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO",
     "nombre_programa": "Nombre del programa: SERVICIO SOCIAL MULTIDISCIPLINARIO EN APORTACIÓN A LA ADMINISTRACIÓN DE JUSTICIA (10016h2271)",
@@ -9002,7 +9002,7 @@
   {
     "id_actividad": 601,
     "nombre_actividad": "Actividad: APOYO A LAS DIVERSAS ACTIVIDADES DE LA UPIIG A DISTANCIA",
-    "numero_vacantes": "Vacantes: 96",
+    "numero_vacantes": "Vacantes: 97",
     "nombre_prestatario": "Prestatario : UPIIG (100113800)",
     "nombre_largo_prestatario": "Nombre largo: UNIDAD PROFESIONAL INTERDISCIPLINARIA DE INGENIERIA, CAMPUS GUANAJUATO",
     "nombre_programa": "Nombre del programa: APOYO A LAS ACTIVIDADES ACADÉMICAS Y ADMINISTRATIVAS DE LA UPIIG ALUMNOS EXTERNOS A DISTANCIA (05554a8200)",
@@ -9032,7 +9032,7 @@
   {
     "id_actividad": 603,
     "nombre_actividad": "Actividad: APOYAR A LAS DIVERSAS ACTIVIDADES DE LA UPIIH",
-    "numero_vacantes": "Vacantes: 89",
+    "numero_vacantes": "Vacantes: 88",
     "nombre_prestatario": "Prestatario : UPIIH (100202113)",
     "nombre_largo_prestatario": "Nombre largo: UNIDAD PROFESIONAL INTERDISCIPLINARIA DE INGENIERÍA CAMPUS HIDALGO",
     "nombre_programa": "Nombre del programa: PROGRAMA PARA ALUMNOS EXTERNOS (05634a7118)",
@@ -9085,14 +9085,14 @@
     "objetivo_programa": "Objetivo: La programación de las diferentes reuniones para la impartición de clases a distancia. Seguimiento a los puntos de acuerdo. Planeación de las actividades a desarrollar en línea para los alumnos. Elaboración de material de apoyo digital para las clases a distancia. Apoyo técnico operativo de las diferentes herramientas tecnológicas para la impartición de clases a distancia. Elaboración de estadísticas o encuestas para obtener retroalimentación de las clases en línea.",
     "justificacion_programa": "Justificación: Uso de herramientas tecnológicas y desarrollo de nuevas habilidades. Que los alumnos puedan desarrollar lo aprendido en clases, apoyando a las áreas o docentes en la elaboración, recepción y registro de trámites de sus compañeros con apoyo de las Tecnologías de la Información disponibles en la UPIICSA.",
     "domicilio_programa": "Domicilio: Calle: TÉ, Núm. exterior: 950, Núm. interior: S/N, Colonia: GRANJAS MEXICO, Delegación o Municipio: IZTACALCO",
-    "nombre_representante": "Representante: JORGE CHECA ROSAS",
+    "nombre_representante": "Representante: JUAN SALVADOR MUÑOZ ROA",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: servicio.social_upii@ipn.mx, Tel: 56242000 ext. 70552, Fax:",
     "apoyos_programa": "Apoyos: ASESORÍA, CAPACITACIÓN,"
   },
   {
     "id_actividad": 607,
     "nombre_actividad": "Actividad: APOYO ADMINISTRATIVO Y TÉCNICO A LOS DEPARTAMENTOS DE LA UPIICSA",
-    "numero_vacantes": "Vacantes: 443",
+    "numero_vacantes": "Vacantes: 454",
     "nombre_prestatario": "Prestatario : UPIICSA (100112900)",
     "nombre_largo_prestatario": "Nombre largo: UNIDAD PROFESIONAL INTERDISCIPLINARIA DE INGENIERIA Y CIENCIAS SOCIALES Y ADMINISTRATIVAS",
     "nombre_programa": "Nombre del programa: PROGRAMA DE APOYO EN ÁREAS ADMINISTRATIVAS DE ALUMNOS EXTERNOS (02400a2492)",
@@ -9100,7 +9100,7 @@
     "objetivo_programa": "Objetivo: APOYAR LAS ÁREAS ADMINISTRATIVAS CON EL APOYO DE ALUMNOS EXTERNOS DE SERVICIO SOCIAL",
     "justificacion_programa": "Justificación: EL ALUMNO APLICARÁ LOS CONOCIMIENTOS ESCOLARES ADQUIRIDOS, EN LAS LABORES DE LAS ÁREAS ADMINISTRATIVAS DE LA UPIICSA",
     "domicilio_programa": "Domicilio: Calle: TÉ, Núm. exterior: 950, Núm. interior: S/N, Colonia: GRANJAS MEXICO, Delegación o Municipio: IZTACALCO",
-    "nombre_representante": "Representante: JORGE CHECA ROSAS",
+    "nombre_representante": "Representante: JUAN SALVADOR MUÑOZ ROA",
     "medios_contacto_representante": "Medios de Contacto con el Representante: e-mail: servicio.social_upii@ipn.mx, Tel: 56242000 ext. 70552, Fax:",
     "apoyos_programa": "Apoyos: ASESORÍA, PAPELERÍA,"
   },
@@ -9152,7 +9152,7 @@
   {
     "id_actividad": 611,
     "nombre_actividad": "Actividad: MANTENIMIENTO CORRECTIVO Y PREVENTIVO",
-    "numero_vacantes": "Vacantes: 43",
+    "numero_vacantes": "Vacantes: 53",
     "nombre_prestatario": "Prestatario : XE-IPN (100200600)",
     "nombre_largo_prestatario": "Nombre largo: XE-IPN CANAL 11",
     "nombre_programa": "Nombre del programa: EDUCANDO Y TRANSFORMANDO A LA SOCIEDAD (02001a0792)",
@@ -9167,7 +9167,7 @@
   {
     "id_actividad": 612,
     "nombre_actividad": "Actividad: APOYO EN LOGISTICA DE RELACIONES PUBLICAS",
-    "numero_vacantes": "Vacantes: -2",
+    "numero_vacantes": "Vacantes: 3",
     "nombre_prestatario": "Prestatario : XE-IPN (100200600)",
     "nombre_largo_prestatario": "Nombre largo: XE-IPN CANAL 11",
     "nombre_programa": "Nombre del programa: EDUCANDO Y TRANSFORMANDO A LA SOCIEDAD (02001a0792)",

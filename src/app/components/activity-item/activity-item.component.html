@@ -1,29 +1,28 @@
 <div [ngClass]="{ 'activity-item-last': lastItem, 'activity-item-first': firstItem }" class="activity-container">
   <div class="activity-actions">
-    <button (click)="onClickRemove()" class="btn-action-remove">remove</button>
-    <button (click)="onClickLike()" class="btn-action-like">like</button>
+    <button (click)="onClickRemove()" class="btn-action-remove">
+      <fa-icon *ngIf="!activity.actividad_removed" [icon]="faTrashRegular"></fa-icon>
+      <fa-icon *ngIf="activity.actividad_removed" [icon]="faTrashSolid"></fa-icon>
+    </button>
+    <button (click)="onClickLike()" class="btn-action-like">
+      <fa-icon *ngIf="!activity.actividad_liked" [icon]="faHeartRegular"></fa-icon>
+      <fa-icon *ngIf="activity.actividad_liked" [icon]="faHeartSolid"></fa-icon>
+    </button>
   </div>
   <div class="notebook-container">
     <div class="notebook-lines"></div>
     <ul class="notebook-list">
-      <li class="notebook-subtitle">Actividad:</li>
-      <li><span class="highlight blue">{{ activity.nombre_actividad }}</span></li>
-      <li class="notebook-subtitle">Programa:</li>
+      <li>{{ activity.nombre_actividad }}</li>
       <li>{{ activity.nombre_programa }}</li>
       <li>{{ activity.numero_vacantes }} vacantes, Del {{ activity.fechaInicioTermino }}</li>
-      <li class="notebook-subtitle">Nombre del prestatario:</li>
       <li>{{ activity.nombre_prestatario }}</li>
       <li>{{ activity.nombre_largo_prestatario }}</li>
-      <li class="notebook-subtitle">Objetivo del programa:</li>
       <li>{{ activity.objetivo_programa | lowercase }}</li>
       <li>Justificación del programa:</li>
       <li>{{ activity.justificacion_programa | lowercase }}</li>
-      <li class="notebook-subtitle">Domicilio:</li>
-      <li><span class="highlight brown">{{ activity.domicilio_programa }}</span></li>
-      <li class="notebook-subtitle">Representante del programa:</li>
-      <li *ngIf="false">{{ activity.nombre_representante }}</li>
-      <li *ngIf="false">{{ activity.medios_contacto_representante }}</li>
-      <li class="notebook-subtitle">Apoyos:</li>
+      <li>{{ activity.domicilio_programa }}</li>
+      <li>{{ activity.nombre_representante }}</li>
+      <li>{{ activity.medios_contacto_representante }}</li>
       <li>{{ activity.apoyos_programa }}</li>
     </ul>
   </div>

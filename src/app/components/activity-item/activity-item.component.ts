@@ -1,6 +1,8 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { IActivityApplication } from 'src/app/data/activities.interfaces';
 import { ActivitiesService } from 'src/app/data/activities.service';
+import { faHeart as faHeartSolid, faTrashAlt as faTrashSolid } from '@fortawesome/free-solid-svg-icons';
+import { faHeart as faHeartRegular, faTrashAlt as faTrashRegular } from '@fortawesome/free-regular-svg-icons';
 
 @Component({
   selector: 'app-activity-item',
@@ -8,6 +10,11 @@ import { ActivitiesService } from 'src/app/data/activities.service';
   styleUrls: ['./activity-item.component.scss']
 })
 export class ActivityItemComponent implements OnInit {
+
+  faHeartSolid = faHeartSolid;
+  faHeartRegular = faHeartRegular;
+  faTrashSolid = faTrashSolid;
+  faTrashRegular = faTrashRegular;
 
   @Input() activity!: IActivityApplication;
 
