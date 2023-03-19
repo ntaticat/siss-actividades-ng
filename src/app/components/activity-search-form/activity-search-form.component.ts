@@ -1,5 +1,5 @@
 import { Component, EventEmitter, OnInit, Output } from '@angular/core';
-import { FormBuilder, FormGroup } from '@angular/forms';
+import { UntypedFormBuilder, UntypedFormGroup } from '@angular/forms';
 import { IFiltroBusqueda } from 'src/app/data/activities.interfaces';
 
 @Component({
@@ -11,10 +11,10 @@ export class ActivitySearchFormComponent implements OnInit {
 
   @Output() emitirFiltrosBusqueda: EventEmitter<IFiltroBusqueda> = new EventEmitter();
 
-  activitySearchForm: FormGroup;
+  activitySearchForm: UntypedFormGroup;
   showForm: boolean = true;
 
-  constructor(private fb: FormBuilder) {
+  constructor(private fb: UntypedFormBuilder) {
     this.activitySearchForm = this.fb.group({
       textSearch: [""],
       filterRadioSearch: [""]
