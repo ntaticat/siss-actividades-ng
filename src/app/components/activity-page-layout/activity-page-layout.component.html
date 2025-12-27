@@ -8,7 +8,9 @@
       </ul>
     </nav>
 
-    <app-activity-search-form *ngIf="true" (emitirFiltrosBusqueda)="changeFiltroBusqueda($event)"></app-activity-search-form>
+    @if (true) {
+      <app-activity-search-form (emitirFiltrosBusqueda)="changeFiltroBusqueda($event)"></app-activity-search-form>
+    }
 
     <div class="">
 

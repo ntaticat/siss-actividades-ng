@@ -1,15 +1,21 @@
 <div class="activities-container">
-  <ng-container *ngFor="let activityItem of (activitiesArr | activitiesFilter:filtroBusqueda.textoBusqueda:filtroBusqueda.filtroBusqueda); let last = last; let first = first">
-    <ng-container [ngSwitch]="activityType">
-      <ng-container *ngSwitchCase="'removed'">
-        <app-activity-item *ngIf="activityItem.actividad_removed" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
-      </ng-container>
-      <ng-container *ngSwitchCase="'liked'">
-        <app-activity-item *ngIf="activityItem.actividad_liked" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
-      </ng-container>
-      <ng-container *ngSwitchDefault>
-        <app-activity-item *ngIf="!activityItem.actividad_liked && !activityItem.actividad_removed" [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
-      </ng-container>
-    </ng-container>
-  </ng-container>
+  @for (activityItem of (activitiesArr | activitiesFilter:filtroBusqueda.textoBusqueda:filtroBusqueda.filtroBusqueda); track activityItem; let last = $last; let first = $first) {
+    @switch (activityType) {
+      @case ('removed') {
+        @if (activityItem.actividad_removed) {
+          <app-activity-item [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
+        }
+      }
+      @case ('liked') {
+        @if (activityItem.actividad_liked) {
+          <app-activity-item [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
+        }
+      }
+      @default {
+        @if (!activityItem.actividad_liked && !activityItem.actividad_removed) {
+          <app-activity-item [activity]="activityItem" (removeActivity)="removeActivity($event)" (likeActivity)="likeActivity($event)"></app-activity-item>
+        }
+      }
+    }
+  }
 </div>

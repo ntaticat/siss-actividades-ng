@@ -1,12 +1,20 @@
 <div [ngClass]="{ 'activity-item-last': lastItem, 'activity-item-first': firstItem }" class="activity-container">
   <div class="activity-actions">
     <button (click)="onClickRemove()" class="btn-action-remove">
-      <fa-icon *ngIf="!activity.actividad_removed" [icon]="faTrashRegular"></fa-icon>
-      <fa-icon *ngIf="activity.actividad_removed" [icon]="faTrashSolid"></fa-icon>
+      @if (!activity.actividad_removed) {
+        <fa-icon [icon]="faTrashRegular"></fa-icon>
+      }
+      @if (activity.actividad_removed) {
+        <fa-icon [icon]="faTrashSolid"></fa-icon>
+      }
     </button>
     <button (click)="onClickLike()" class="btn-action-like">
-      <fa-icon *ngIf="!activity.actividad_liked" [icon]="faHeartRegular"></fa-icon>
-      <fa-icon *ngIf="activity.actividad_liked" [icon]="faHeartSolid"></fa-icon>
+      @if (!activity.actividad_liked) {
+        <fa-icon [icon]="faHeartRegular"></fa-icon>
+      }
+      @if (activity.actividad_liked) {
+        <fa-icon [icon]="faHeartSolid"></fa-icon>
+      }
     </button>
   </div>
   <div class="notebook-container">
