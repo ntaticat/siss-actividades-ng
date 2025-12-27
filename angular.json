@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "siss-actividades:build:production"
+              "buildTarget": "siss-actividades:build:production"
             },
             "development": {
-              "browserTarget": "siss-actividades:build:development"
+              "buildTarget": "siss-actividades:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "siss-actividades:build"
+            "buildTarget": "siss-actividades:build"
           }
         },
         "test": {
