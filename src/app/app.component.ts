@@ -4,9 +4,10 @@ import { IActivity, IActivityApplication, IFiltroBusqueda } from './data/activit
 import { ActivitiesService } from './data/activities.service';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.scss'],
+    standalone: false
 })
 export class AppComponent {
 

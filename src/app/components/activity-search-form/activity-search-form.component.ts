@@ -3,9 +3,10 @@ import { UntypedFormBuilder, UntypedFormGroup } from '@angular/forms';
 import { IFiltroBusqueda } from 'src/app/data/activities.interfaces';
 
 @Component({
-  selector: 'app-activity-search-form',
-  templateUrl: './activity-search-form.component.html',
-  styleUrls: ['./activity-search-form.component.scss']
+    selector: 'app-activity-search-form',
+    templateUrl: './activity-search-form.component.html',
+    styleUrls: ['./activity-search-form.component.scss'],
+    standalone: false
 })
 export class ActivitySearchFormComponent implements OnInit {
 

@@ -3,9 +3,10 @@ import { IFiltroBusqueda } from 'src/app/data/activities.interfaces';
 import { ActivitiesService } from 'src/app/data/activities.service';
 
 @Component({
-  selector: 'app-activity-page-layout',
-  templateUrl: './activity-page-layout.component.html',
-  styleUrls: ['./activity-page-layout.component.scss']
+    selector: 'app-activity-page-layout',
+    templateUrl: './activity-page-layout.component.html',
+    styleUrls: ['./activity-page-layout.component.scss'],
+    standalone: false
 })
 export class ActivityPageLayoutComponent implements OnInit {
 

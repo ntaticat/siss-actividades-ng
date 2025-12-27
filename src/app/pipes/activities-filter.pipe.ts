@@ -2,7 +2,8 @@ import { Pipe, PipeTransform } from '@angular/core';
 import { IActivityApplication } from '../data/activities.interfaces';
 
 @Pipe({
-  name: 'activitiesFilter',
+    name: 'activitiesFilter',
+    standalone: false
 })
 export class ActivitiesFilterPipe implements PipeTransform {
   transform(

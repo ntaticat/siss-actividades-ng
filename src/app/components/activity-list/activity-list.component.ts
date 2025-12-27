@@ -4,9 +4,10 @@ import { IActivityApplication, IFiltroBusqueda } from 'src/app/data/activities.i
 import { ActivitiesService } from 'src/app/data/activities.service';
 
 @Component({
-  selector: 'app-activity-list',
-  templateUrl: './activity-list.component.html',
-  styleUrls: ['./activity-list.component.scss']
+    selector: 'app-activity-list',
+    templateUrl: './activity-list.component.html',
+    styleUrls: ['./activity-list.component.scss'],
+    standalone: false
 })
 export class ActivityListComponent implements OnInit {
 

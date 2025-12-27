@@ -5,9 +5,10 @@ import { faHeart as faHeartSolid, faTrashAlt as faTrashSolid } from '@fortawesom
 import { faHeart as faHeartRegular, faTrashAlt as faTrashRegular } from '@fortawesome/free-regular-svg-icons';
 
 @Component({
-  selector: 'app-activity-item',
-  templateUrl: './activity-item.component.html',
-  styleUrls: ['./activity-item.component.scss']
+    selector: 'app-activity-item',
+    templateUrl: './activity-item.component.html',
+    styleUrls: ['./activity-item.component.scss'],
+    standalone: false
 })
 export class ActivityItemComponent implements OnInit {
 
